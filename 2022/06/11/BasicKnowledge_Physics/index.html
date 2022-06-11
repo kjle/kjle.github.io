@@ -687,7 +687,7 @@ inputs p and q (both are positive natural numbers) and the output r?</p>
 <hr>
 <p>In Python, what will happen when trying to execute the following
 code?</p>
-<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">a = [<span class="number">1</span>]</span><br><span class="line"><span class="keyword">def</span> <span class="title function_">f</span>(<span class="params">x</span>):</span><br><span class="line">    x = x+[<span class="number">1</span>]</span><br><span class="line">    <span class="keyword">return</span> x</span><br><span class="line"></span><br><span class="line">b = f(a)</span><br><span class="line">b[<span class="number">0</span>] = <span class="number">0</span></span><br><span class="line"><span class="built_in">print</span>(a)</span><br><span class="line">printf(b)</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">a = [<span class="number">1</span>]</span><br><span class="line"><span class="keyword">def</span> <span class="title function_">f</span>(<span class="params">x</span>):</span><br><span class="line">    x = x+[<span class="number">1</span>]</span><br><span class="line">    <span class="keyword">return</span> x</span><br><span class="line"></span><br><span class="line">b = f(a)</span><br><span class="line">b[<span class="number">0</span>] = <span class="number">0</span></span><br><span class="line"><span class="built_in">print</span>(a)</span><br><span class="line"><span class="built_in">print</span>(b)</span><br></pre></td></tr></table></figure>
 <ul>
 <li>The execution produces the following out put:[2] [0]</li>
 <li>The execution produces the following out put:[1,1] [0,1]</li>
@@ -716,7 +716,7 @@ selected column?</p>
 </ul>
 <hr>
 <p>In Python, what is the name of the following language construct?</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[i+5 for i in L if i&gt;10]</span><br></pre></td></tr></table></figure>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[i+<span class="number">5</span> <span class="keyword">for</span> i <span class="keyword">in</span> L <span class="keyword">if</span> i&gt;<span class="number">10</span>]</span><br></pre></td></tr></table></figure>
 <ul>
 <li>A contraction.</li>
 <li>A comprehension.</li>
@@ -724,6 +724,212 @@ selected column?</p>
 <li>A completion.</li>
 <li>An extension.</li>
 </ul>
+<h3 id="thermodynamics">Thermodynamics</h3>
+<p>Calculate the power of a compressor able to compress (quasi static
+compression) a volume of air of <span class="math inline">\(1
+m^3\)</span> at a constant temperature <span class="math inline">\(T_0 =
+0 °C\)</span> from a pressure <span class="math inline">\(P_0 = 10^5
+Pa\)</span> to a pressure <span class="math inline">\(P_1 = 3.5 \cdot
+10^5 Pa\)</span> in one minute. Universal gas constant: <span class="math inline">\(8.31 J/(mole\cdot K)\)</span></p>
+<ul>
+<li>3.78 kW</li>
+<li>5.55 kW</li>
+<li>7.98 kW</li>
+<li><span style="color:red;">2.115 kW</span></li>
+<li>None of the above answers.</li>
+</ul>
+<hr>
+<p>If for a pure substance <span class="math inline">\(T_A\)</span> and
+<span class="math inline">\(T_B\)</span> denote the freezing point and
+the melting point, respectively, then the correct variation between
+entropy change and temperature is given by:</p>
+<ul>
+<li><img src="/2022/06/11/BasicKnowledge_Physics/Thermodynamics1-1.jpg"></li>
+<li><img src="/2022/06/11/BasicKnowledge_Physics/Thermodynamics1-2.jpg"></li>
+<li><img src="/2022/06/11/BasicKnowledge_Physics/Thermodynamics1-3.jpg"></li>
+<li><img src="/2022/06/11/BasicKnowledge_Physics/Thermodynamics1-4.jpg"></li>
+<li>None of the above graphs</li>
+</ul>
+<blockquote>
+<p>BEST ANSWER: picture 3</p>
+</blockquote>
+<hr>
+<p>A mass <span class="math inline">\(M\)</span> is suspended to a
+metallic wire. The wire length is increased by the application of the
+load. This can be done suddenly (external work <span class="math inline">\(W_1\)</span>) or by increasing gradually in a
+quasi static way the load from 0 to <span class="math inline">\(M\)</span> kg (external work <span class="math inline">\(W_2\)</span>). Among these propositions which one
+is right?</p>
+<ul>
+<li>None of the above propositions</li>
+<li><span class="math inline">\(\color{red}{W_1&gt; W_2}\)</span></li>
+<li><span class="math inline">\(W_1&lt; W_2\)</span></li>
+<li><span class="math inline">\(W_1= W_2\)</span></li>
+<li><span class="math inline">\(W_1= 2W_2\)</span></li>
+</ul>
+<hr>
+<p>A saturated liquid flows through an adiabatic relief valve. Because
+of the pressure drop, the liquid is partly vaporized and its temperature
+decreases. The fluid velocity at the valve inlet and outlet is
+considered negligible.</p>
+<center>
+<img src="/2022/06/11/BasicKnowledge_Physics/Thermodynamics2-1.png">
+</center>
+<p>On the entropy-temperature diagram below, the state of the fluid at
+the valve inlet is represented by point A. What point describes the
+state of the fluid at the valve outlet?</p>
+<center>
+<img src="/2022/06/11/BasicKnowledge_Physics/Thermodynamics2-2.png">
+</center>
+<ul>
+<li>Point E</li>
+<li>None of points B, C, D or E</li>
+<li>Point B</li>
+<li>Point D</li>
+<li><span style="color:red;">Point C</span></li>
+</ul>
+<hr>
+<p>A hollow sphere of steel contains a hot fluid at constant temperature
+<span class="math inline">\(T_1\)</span>. The sphere is surrounded by
+still air at constant temperature <span class="math inline">\(T_2\)</span>. We denote by <span class="math inline">\(h_1\)</span> and <span class="math inline">\(h_2\)</span> the heat transfer coefficients
+between the hot fluid and the inner wall of the sphere and between air
+and the outer wall of the sphere, respectively. The thermal conductivity
+of steel is denoted by <span class="math inline">\(\lambda\)</span>. We
+assume the regime is steady. Given :</p>
+<center>
+<img src="/2022/06/11/BasicKnowledge_Physics/Thermodynamics3.png">
+</center>
+<p><span class="math inline">\(\lambda = 46 W/(m.K)\)</span> <span class="math inline">\(R_1 = 1.2m\)</span> <span class="math inline">\(R_2 = 1.26m\)</span> <span class="math inline">\(T_1 = 85°C\)</span> <span class="math inline">\(T_2 = 20°C\)</span> <span class="math inline">\(h_1 = 30W/(m2.K)\)</span> <span class="math inline">\(h_2= 6W/(m2.K)\)</span> The heat flux across the
+sphere is:</p>
+<ul>
+<li><span class="math inline">\(1.2 \ 10^3W\)</span></li>
+<li><span class="math inline">\(\color{red}{6.3 \ 10^3W}\)</span></li>
+<li><span class="math inline">\(6.3 \ 10^4W\)</span></li>
+<li><span class="math inline">\(1.2 \ 10^4W\)</span></li>
+<li>None of the above answers</li>
+</ul>
+<hr>
+<p>The thermostat controlling a room temperature is adjusted from 22°C
+down to 18°C. Assuming that the outside temperature is only 2°C, by how
+much will be reduced the consumption of fuel used for heating?</p>
+<ul>
+<li>I cannot answer this question without information about the
+thermo-physical properties of air</li>
+<li>None of the above answers</li>
+<li>I cannot answer this question because neither the surface area nor
+the thickness nor the thermal conductivity of the walls in the room are
+provided.</li>
+<li><span style="color:red;">20 %</span></li>
+<li>81.8 %</li>
+</ul>
+<hr>
+<p>A closed container containing 6g of hydrogen (ideal gas) is heated.
+The temperature increases from 15°C to 30°C. (<span class="math inline">\(R= 8.32 SI, \gamma= C_p/C_v = 1.4\)</span>).
+Calculate the change in internal energy of the gas during this
+heating.</p>
+<ul>
+<li><span class="math inline">\(\Delta U = 93.6 J\)</span></li>
+<li><span class="math inline">\(\Delta U = 0.936 J\)</span></li>
+<li><span class="math inline">\(\Delta U = 9.36 J\)</span></li>
+<li><span class="math inline">\(\Delta U = 9360 J\)</span></li>
+<li><span class="math inline">\(\color{red}{\Delta U = 936
+J}\)</span></li>
+</ul>
+<hr>
+<p>The first law of thermodynamics <span class="math inline">\(\Delta (U
++ K) = W + Q\)</span>, where the system exchanges work W and heat Q with
+the surrounding, U is the internal energy and K the macroscopic kinetic
+energy :</p>
+<ul>
+<li>Is valid if the system is thermally insulated.</li>
+<li>Is always valid</li>
+<li>Is valid only for a gas</li>
+<li>Is valid only for an ideal gas</li>
+<li><span style="color:red;">Is always valid for a closed
+system</span></li>
+</ul>
+<hr>
+<p>A fan is running steadily in a closed and thermally insulated room
+containing 40m3 of air. There is nobody in the room. The initial state
+of air in the room is T = 300 K, P = 1 bar. The electrical power of the
+fan is 100 W. By how much has the room temperature varied after 1 hour?
+Data: air can be considered as an ideal gas of molar weight 29g/mol. The
+ideal gas constant is <span class="math inline">\(R=8.314Jmol^{−1}K^{−1}\)</span>. The heat capacity
+of air at constant pressure is <span class="math inline">\(c_P=1000JKg^{−1}K^{−1}\)</span> and the heat
+capacity of air at constant volume is <span class="math inline">\(c_v=720JKg^{−1}K^{−1}\)</span>.</p>
+<ul>
+<li><span style="color:red;">+10.75 K</span></li>
+<li>+12.5K</li>
+<li>None of the above answers</li>
+<li>-7.7 K</li>
+<li>+7.7 K</li>
+</ul>
+<hr>
+<p>A heat pump works between a cold sink at <span class="math inline">\(T_1=2°C\)</span> and a hot source at <span class="math inline">\(T_2=55°C\)</span> . To ensure a comfortable
+temperature of 20°C inside a home (sweet home), <span class="math inline">\(10.000kcalh^{−1}\)</span> are necessary. The real
+coefficient of performance of the heat pump is 55% of the maximum
+coefficient of performance achievable theoretically. What is the
+required mechanical power?</p>
+<ul>
+<li><span class="math inline">\(20.3 \ 10^3W\)</span></li>
+<li><span class="math inline">\(1.9 \ 10^3W\)</span></li>
+<li><span class="math inline">\(2.9 \ 10^3W\)</span></li>
+<li>None of the above answers</li>
+<li><span class="math inline">\(\color{red}{3.4 \ 10^3W}\)</span></li>
+</ul>
+<hr>
+<p>The gas filling a cylindrical cavity is compressed by a piston from
+an initial volume <span class="math inline">\(V_1\)</span> to a final
+volume <span class="math inline">\(V_2\)</span>. In case a, the cavity
+is in contact with a thermal bath ensuring a constant temperature <span class="math inline">\(T_s\)</span>. In case b, the cavity is thermally
+insulated.</p>
+<ul>
+<li>the final pressure may be either larger or smaller in case a than in
+case b, it depends on the external temperature</li>
+<li>the final pressure may be either larger or smaller in case a than in
+case b, it depends on the ratio <span class="math inline">\(V_2/V_1\)</span></li>
+<li>the final pressure is the same in both cases</li>
+<li><span style="color:red;">the final pressure is larger if the cavity
+is thermally insulated</span></li>
+<li>the final pressure is larger if the cavity is maintained to constant
+temperature</li>
+</ul>
+<hr>
+<p>We consider a closed system <span class="math inline">\(\Sigma\)</span> of constant volume V, in contact
+with a thermal bath at constant temperature <span class="math inline">\(T_s\)</span>. When the system <span class="math inline">\(\Sigma\)</span> reaches equilibrium:</p>
+<p>NOTE : you might be more familiar with the notation "A" instead of
+"F" for the free energy.</p>
+<ul>
+<li>its free enthalpy G is a maximum</li>
+<li><span style="color:red;">its free energy F is a minimum</span></li>
+<li>its free energy F is a maximum</li>
+<li>its free enthalpy G is a minimum</li>
+<li>its enthalpy H is a minimum</li>
+</ul>
+<hr>
+<p>For a closed system containing a single component, the differential
+of the enthalpy writes:</p>
+<ul>
+<li>dH = V dp - S dT</li>
+<li>dH = - p dV + T dS</li>
+<li>dH = p dV - S dT</li>
+<li><span style="color:red;">dH = V dp + T dS</span></li>
+<li>dH = - p dV – S dT</li>
+</ul>
+<hr>
+<p>A system of 1m3 of air (ideal gas) at pressure <span class="math inline">\(P_1 = 10^6\)</span> Pa undergoes a relaxation at
+constant temperature.</p>
+<p>The final pressure is <span class="math inline">\(P_2 = 10^5\)</span>
+Pa.</p>
+<p>Determine the work and heat exchanged by the system with its external
+environment during the above transformation.</p>
+<ul>
+<li>W = +1500 kJ; Q = -1300 kJ</li>
+<li><span style="color:red;">W = -2300 kJ; Q = +2300kJ</span></li>
+<li>W = -1500 kJ; Q = +1500 kJ</li>
+<li>W = 0 kJ; Q = 0 kJ</li>
+<li>W = +2300 kJ; Q = -2300kJ</li>
+</ul>
+<h3 id="chemistry">Chemistry</h3>
 	  
 
 	  <div>
