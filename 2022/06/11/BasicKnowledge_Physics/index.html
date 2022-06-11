@@ -70,7 +70,7 @@ Kinematics: position, trajectories, velocity, accelerat">
 	  <!-- content -->
 	  <h2 id="guide">Guide</h2>
 <p><a href="https://kjle.github.io/files/BasicKnowledge/Physics_Guide.pdf">Download</a>
-PDF version of Physics Guid.</p>
+PDF version of <strong>Physics Guid</strong>.</p>
 <h3 id="area-1-mechanics-newtonian-and-materials">Area 1: mechanics
 (Newtonian) and materials</h3>
 <ul>
@@ -230,12 +230,222 @@ interferometer, Pérot-Fabry’s cavity</li>
 <li>Basics of lasers</li>
 <li>Light propagation in optical fibers</li>
 </ul>
-<h2 id="test-for-mathematics">Test for Mathematics</h2>
-<p>In this test, the correct solution will be given in <span class="math inline">\(\color{red}{red}\)</span>.</p>
-<figure>
-<img src="/2022/06/11/BasicKnowledge_Physics/phy1.png" alt="picname">
-<figcaption aria-hidden="true">picname</figcaption>
-</figure>
+<h2 id="test-and-exam-for-physics">Test and Exam for Physics</h2>
+<p>This part will incloude some of the questions in the
+<em>Exercises</em> in which the correct solution will be given in <span class="math inline">\(\color{red}{red}\)</span>, and in the
+<em>Exam</em> which have not given the correct answers yet.</p>
+<h3 id="mechanics">Mechanics</h3>
+<p>The inertia matrix about <span class="math inline">\(O,I(O,\vec{x},\vec{y},\vec{z})\)</span> , of a
+cylinder of height <span class="math inline">\(H\)</span>, radius <span class="math inline">\(R\)</span> and mass <span class="math inline">\(M\)</span> is:</p>
+<center>
+<img src="/2022/06/11/BasicKnowledge_Physics/Mechanics1.png">
+</center>
+<ul>
+<li><span class="math display">\[\frac{M}{2} \begin{pmatrix} R^2/2+H^2/6
+&amp; 0 &amp;0\\ 0&amp; R^2 &amp; 0 \\ 0 &amp; 0 &amp; R^2/2+H^2/6
+\\\end{pmatrix} \]</span></li>
+<li><span class="math display">\[\frac{M}{2} \begin{pmatrix}
+R^2/2+2H^2/3 &amp; 0&amp; 0\\ 0&amp; R^2+2H^2/3 &amp; 0 \\ 0 &amp; 0
+&amp; R^2\\ \end{pmatrix} \]</span></li>
+<li><span class="math display">\[\color{red}{\frac{M}{2} \begin{pmatrix}
+R^2/2+2H^2/3 &amp; 0 &amp;0\\ 0&amp; R^2 &amp; 0 \\ 0 &amp; 0 &amp;
+R^2/2+2H^2/3\\ \end{pmatrix} }\]</span></li>
+<li><span class="math display">\[\frac{M}{2} \begin{pmatrix} R^2 &amp; 0
+&amp;0\\ 0&amp; R^2/2+H^2/6 &amp; 0 \\ 0 &amp; 0 &amp; R^2\\
+\end{pmatrix} \]</span></li>
+<li><span class="math display">\[\frac{M}{2} \begin{pmatrix} R^2/2+H^2/6
+&amp; 0&amp; 0\\ 0&amp; R^2/2+H^2/6 &amp; 0 \\ 0 &amp; 0 &amp; R^2\\
+\end{pmatrix} \]</span></li>
+</ul>
+<hr>
+<p>A hoop with mass <span class="math inline">\(M\)</span> and radius
+<span class="math inline">\(R\)</span> rolls on a horizontal floor at
+constant angular velocity <span class="math inline">\((\omega=d\theta
+/dt)\)</span> around its own axis. To which relationship leads the
+no-slip condition at the contact point <span class="math inline">\(I\)</span> ?</p>
+<center>
+<img src="/2022/06/11/BasicKnowledge_Physics/Mechanics2.png">
+</center>
+<ul>
+<li><span class="math inline">\(\color{red}{\frac{d\lambda}{dt}+R\frac{d\theta}{dt}=0}\)</span></li>
+<li><span class="math inline">\(\frac{d\lambda}{dt}-R\frac{d\theta}{dt}=0\)</span></li>
+<li><span class="math inline">\(\frac{d\lambda}{dt}+MR\frac{d\theta}{dt}=0\)</span></li>
+<li><span class="math inline">\(M\frac{d\lambda}{dt}-R\frac{d\theta}{dt}=0\)</span></li>
+<li><span class="math inline">\(R\frac{d\theta}{dt}=cste\)</span></li>
+</ul>
+<hr>
+<p>A material point with mass <span class="math inline">\(M\)</span>
+slips frictionless over the surface of a fixed half-cylinder with radius
+<span class="math inline">\(R\)</span>. We denote by <span class="math inline">\(g\)</span> the acceleration of gravity. The
+material point <span class="math inline">\(M\)</span> is initially at
+point <span class="math inline">\(A\)</span> (cylinder top). It is
+launched gently with an initial horizontal velocity <span class="math inline">\(V_0\)</span>. We suppose that the material point
+keeps contact with the surface of the cylinder. The relationship between
+the velocity <span class="math inline">\(V\)</span> of the mass <span class="math inline">\(M\)</span> and the angle <span class="math inline">\(\theta\)</span> that defines its position is:</p>
+<center>
+<img src="/2022/06/11/BasicKnowledge_Physics/Mechanics3.png">
+</center>
+<ul>
+<li><span class="math inline">\(V^2 = V_{0}^2+2gR(1+\cos
+\theta)\)</span></li>
+<li><span class="math inline">\(\color{red}{V^2 = V_{0}^2+2gR(1-\cos
+\theta)}\)</span></li>
+<li><span class="math inline">\(V^2 = V_{0}^2-2gR(1+\cos
+\theta)\)</span></li>
+<li><span class="math inline">\(V^2 = V_{0}^2-2gR(1-\cos
+\theta)\)</span></li>
+<li>None of the above answers</li>
+</ul>
+<hr>
+<p>A viscous fluid flows between two parallel and infinitely large
+plates kept at a distance <span class="math inline">\(2h\)</span> from
+each other. The upper plate is at <span class="math inline">\(y =
+h\)</span> and the lower plate is at <span class="math inline">\(y = -
+h\)</span>. The considered fluid flows mono directionally along the
+x-direction under a constant pressure gradient <span class="math inline">\(K=−dP/dx\)</span>. The transverse profile of
+velocity is given by :</p>
+<center>
+<img src="/2022/06/11/BasicKnowledge_Physics/Mechanics4.png">
+</center>
+<ul>
+<li><span class="math inline">\(U(y) = \frac{K}{2}(h-y)\)</span></li>
+<li><span class="math inline">\(U(y) =
+\frac{K}{2}(h^2-y^2)\)</span></li>
+<li><span class="math inline">\(U(y) = \frac{K}{2\mu}(y^2)\)</span></li>
+<li><span class="math inline">\(U(y) = \frac{K}{2\mu}(h-y)\)</span></li>
+<li><span class="math inline">\(\color{red}{U(y) =
+\frac{K}{2\mu}(h^2-y^2)}\)</span></li>
+</ul>
+<hr>
+<p>Gasoline (incompressible fluid, density <span class="math inline">\(\rho = 800 kg\cdot m^{−3}\)</span>) flows steadily
+from a <span class="math inline">\(0.30 m\)</span> diameter pipe in
+which the pressure is <span class="math inline">\(300 kPa\)</span> into
+a <span class="math inline">\(0.15 m\)</span> diameter pipe in which the
+pressure is <span class="math inline">\(120 kPa\)</span> . If the pipes
+are horizontal and viscous effects negligible, the flow rate is :</p>
+<center>
+<img src="/2022/06/11/BasicKnowledge_Physics/Mechanics5.png">
+</center>
+<ul>
+<li><span class="math inline">\(1.92 m^3\cdot s^{−1}\)</span></li>
+<li><span class="math inline">\(0.42 m^3\cdot s^{−1}\)</span></li>
+<li><span class="math inline">\(\color{red}{0.37 m^3\cdot
+s^{−1}}\)</span></li>
+<li><span class="math inline">\(0.21 m^3\cdot s^{−1}\)</span></li>
+<li><span class="math inline">\(0.96 m^3\cdot s^{−1}\)</span></li>
+</ul>
+<hr>
+<p>Bernoulli's formula <span class="math inline">\(P_1+\frac{1}{2}pV_2^1+pgz_1 = P_2 +
+\frac{1}{2}pV_2^2 + pgz_2\)</span> is applicable to:</p>
+<ul>
+<li>Steady, laminar, incompressible flows of viscous fluids</li>
+<li><span style="color:red;">Steady, incompressible, laminar flows of
+ideal fluids</span></li>
+<li>Only flows in pipes</li>
+<li>Any kind of flow</li>
+<li>None of the above answers</li>
+</ul>
+<hr>
+<p>Grass is growing on a disk spinning at constant rate . What is the
+orientation of the stems ?</p>
+<ul>
+<li>Inclined towards the periphery with a constant angle</li>
+<li>Inclined towards the periphery with a variable angle</li>
+<li><span style="color:red;">Inclined towards the centre with a variable
+angle</span></li>
+<li>Inclined towards the centre with a constant angle</li>
+<li>Vertical</li>
+</ul>
+<hr>
+<p>Water flows in a pipe of constant cross area <span class="math inline">\(5 cm^2\)</span> . The pipe is bent at <span class="math inline">\(90°\)</span> as shown in the figure below. The
+flow rate is steady and equal to <span class="math inline">\(0.1
+l/s\)</span> . Pressure is supposed uniform within the bent. It is equal
+to <span class="math inline">\(2\)</span> bars.</p>
+<center>
+<img src="/2022/06/11/BasicKnowledge_Physics/Mechanics6.png">
+</center>
+<p>The resulting force imposed by the fluid on the pipe bent is most
+nearly equal to:</p>
+<ul>
+<li>2N</li>
+<li>0N</li>
+<li>3N</li>
+<li>1N</li>
+<li><span style="color:red;">4N</span></li>
+</ul>
+<hr>
+<p>In fluid mechanics, the divergence of velocity expresses</p>
+<ul>
+<li>An elongational rate in the direction of motion</li>
+<li>A particular eigen value of the Navier-Stokes equation.</li>
+<li><span style="color:red;">A volume dilatation rate</span></li>
+<li>None of the above answers</li>
+<li>Viscous effects</li>
+</ul>
+<hr>
+<p>A spherical porcelain ball, with radius <span class="math inline">\(r\)</span>, is dropped without initial velocity in
+a test tube containing glycerin. During fall, the ball is subject to the
+following forces:</p>
+<p><span class="math inline">\(\mathbf{P}\)</span> its weight; <span class="math inline">\(A\)</span> the thrust of Archimedes; fluid
+friction force <span class="math inline">\(\mathbf{f} = k
+\mathbf{v}\)</span> with <span class="math inline">\(k = 6 \pi r
+\eta\)</span> ; <span class="math inline">\(\eta\)</span> : viscosity
+(Pa s) of Glycerin, <span class="math inline">\(V\)</span>, velocity</p>
+<p>Density of Glycerin <span class="math inline">\(\rho G= 1.3
+g/mL\)</span> ; density of porcelain <span class="math inline">\(\rho P
+= 2.3 g/mL\)</span> ; <span class="math inline">\(r\)</span> ball radius
+<span class="math inline">\(= 1.0 cm\)</span> ;</p>
+<p><span class="math inline">\(\eta = 1.0 s\cdot Pa\)</span> ; <span class="math inline">\(g = 10 N/kg\)</span> ; volume of a sphere <span class="math inline">\(V = 4/3 \pi r^3\)</span> .</p>
+<p>The speed limit (in m/s) is:</p>
+<ul>
+<li>0.44</li>
+<li><span style="color:red;">0.22</span></li>
+<li>0.11</li>
+<li>0.33</li>
+<li>0.55</li>
+</ul>
+<hr>
+<p>A sphere of weight <span class="math inline">\(100N\)</span> is
+supported by two inclined plane walls as shown below. The force acting
+against the wall at point <span class="math inline">\(P\)</span> is:</p>
+<center>
+<img src="/2022/06/11/BasicKnowledge_Physics/Mechanics7.png">
+</center>
+<ul>
+<li><span style="color:red;">70.7N</span></li>
+<li>35.5N</li>
+<li>50.0N</li>
+<li>100N</li>
+<li>45.0N</li>
+</ul>
+<h3 id="electronincs">Electronincs</h3>
+<p>In a NPN transistor, the collector current is saturated when:</p>
+<center>
+<img src="/2022/06/11/BasicKnowledge_Physics/Electronics1.png">
+</center>
+<ul>
+<li><span class="math inline">\(0&lt;V_{BE}&lt;V_d\)</span></li>
+<li><span class="math inline">\(V_{BE}&gt;0\)</span></li>
+<li><span class="math inline">\(V_{BE} &lt; 0\)</span></li>
+<li><span class="math inline">\(\color{red}{V_{BE}&gt;V_d}\)</span></li>
+<li>None of the above conditions</li>
+</ul>
+<hr>
+<p>Calculate the mutual inductance <span class="math inline">\(M12\)</span> between the infinite line and the
+square loop shown in the figure :</p>
+<center>
+<img src="/2022/06/11/BasicKnowledge_Physics/Electronics2.png">
+</center>
+<ul>
+<li><span class="math inline">\(M12 = 0\)</span></li>
+<li><span class="math inline">\(M12 = \mu_0 I_1/2\pi h\)</span></li>
+<li><span class="math inline">\(\color{red}{M12 = \frac{\mu_0
+h}{2\pi}\ln \frac{d+w}{d}}\)</span></li>
+<li><span class="math inline">\(M12 = \frac{\mu_0 h}{2\pi}\ln
+\frac{d}{d+w}\)</span></li>
+<li><span class="math inline">\(M12 = \frac{\varepsilon_0 h}{2\pi}\ln
+\frac{d+w}{d}\)</span></li>
+</ul>
 	  
 
 	  <div>
