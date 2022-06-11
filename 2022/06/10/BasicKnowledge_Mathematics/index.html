@@ -210,11 +210,11 @@ f(x)-\int_{b}^{3} f(x) dx\)</span></p></li>
 3\int_{a}^{b} f(3x) dx\)</span></p></li>
 </ol>
 <ul>
-<li>II and III only</li>
-<li>II only</li>
-<li>I only</li>
-<li>I and II only</li>
-<li><span style="color:red;"> I, II and III </span></li>
+<li>$II and III only $</li>
+<li>$II only $</li>
+<li>$I only $</li>
+<li>$I and II only $</li>
+<li><span class="math inline">\(\color{red}{I, II and III}\)</span></li>
 </ul>
 <blockquote>
 <p>Best Answer: I, II and III.</p>
@@ -332,6 +332,22 @@ class="math inline">\(\int_{0}^{2} xf^{&#39;&#39;}(x)dx=\)</span></p>
 
 
 
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+            processEscapes: true
+        }
+    });
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax();
+        for (var i = 0; i < all.length; ++i)
+            all[i].SourceElement().parentNode.className += ' has-jax';
+    });
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
 </body>
 </html>
