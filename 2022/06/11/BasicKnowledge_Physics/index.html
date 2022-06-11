@@ -588,7 +588,7 @@ shown below.</p>
 <li><span style="color:red;">First order</span></li>
 </ul>
 <hr>
-<p>The current circulating in a coil exhibiting an inductance of <span class="math inline">\(0.2 H\)</span> is increased from <span class="math inline">\(0\)</span> to <span class="math inline">\(1O
+<p>The current circulating in a coil exhibiting an inductance of <span class="math inline">\(0.2 H\)</span> is increased from <span class="math inline">\(0\)</span> to <span class="math inline">\(10
 A\)</span> in <span class="math inline">\(0.1\)</span> second. What is
 the magnitude of the electromotive force (emf) induced?</p>
 <ul>
@@ -600,6 +600,130 @@ the magnitude of the electromotive force (emf) induced?</p>
 </ul>
 <h3 id="algorithmic-computer-science">Algorithmic / Computer
 Science</h3>
+<p>For an array of <span class="math inline">\(N\)</span> integer
+values, the bubble-sort algorithm in the best case has the following
+complexity (time to compare two integers is constant):</p>
+<ul>
+<li>O(log N)</li>
+<li>O(N^2)</li>
+<li>O(1)</li>
+<li>O(N log N)</li>
+<li><span style="color:red;">O(N)</span></li>
+</ul>
+<hr>
+<p>In the following program:</p>
+<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Sort</span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="type">static</span> <span class="type">void</span> <span class="title">find_forward</span><span class="params">(<span class="type">int</span>[] tab,<span class="type">int</span> i)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span>(i &lt; tab.length<span class="number">-1</span>)</span><br><span class="line">            <span class="keyword">if</span> (tab[i] &gt; tab[i + <span class="number">1</span>]) <span class="built_in">push</span>(tab,i);</span><br><span class="line">        <span class="keyword">else</span> &lt;...&gt;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">public</span> <span class="type">static</span> <span class="type">void</span> <span class="built_in">find_back</span>(<span class="type">int</span>[] tab, inti) &#123;</span><br><span class="line">        <span class="keyword">if</span>(i &gt; <span class="number">0</span>)</span><br><span class="line">            <span class="keyword">if</span> (tab[i] &lt; tab[i<span class="number">-1</span>]) <span class="built_in">pull</span>(tab,i);</span><br><span class="line">        <span class="keyword">else</span> &lt;...&gt;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">public</span> <span class="type">static</span> <span class="type">void</span> <span class="built_in">pull</span>(<span class="type">int</span>[] tab, inti) &#123;</span><br><span class="line">        <span class="keyword">if</span>(i &gt; <span class="number">1</span>) &#123;</span><br><span class="line">            <span class="keyword">if</span> (tab[i] &gt; tab[i<span class="number">-1</span>]) &#123;</span><br><span class="line">                <span class="type">int</span> c    = tab[i<span class="number">-1</span>];</span><br><span class="line">                tab[i<span class="number">-1</span>] = tab[i];</span><br><span class="line">                tab[i]   = c;</span><br><span class="line">                <span class="built_in">pull</span> (tab,i<span class="number">-1</span>);</span><br><span class="line">            &#125;</span><br><span class="line">            <span class="keyword">else</span> <span class="built_in">push</span>(tab,i<span class="number">-1</span>)</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">else</span> <span class="built_in">find_forward</span>(tab,<span class="number">0</span>);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="type">static</span> <span class="type">void</span> <span class="title">push</span><span class="params">(<span class="type">int</span>[] tab, inti)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">if</span> (i &lt; tab.length - <span class="number">1</span>) &#123;</span><br><span class="line">            <span class="keyword">if</span> (tab[i] &gt; tab[i + l]) &#123;</span><br><span class="line">                <span class="type">int</span> c    = tab[i+l];</span><br><span class="line">                tab[i+<span class="number">1</span>] = tab[i]</span><br><span class="line">                tab[i]   = c;</span><br><span class="line">                <span class="built_in">push</span>(tab,i+<span class="number">1</span>);</span><br><span class="line">            &#125;</span><br><span class="line">            <span class="keyword">else</span> <span class="built_in">pull</span>(tab,i+<span class="number">1</span>);</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">else</span> <span class="built_in">find_back</span>(tab,tab.length<span class="number">-1</span>);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="type">static</span> <span class="type">void</span> <span class="title">sort</span><span class="params">(<span class="type">int</span>[] tab)</span> </span>&#123;</span><br><span class="line">        <span class="built_in">find_forward</span>(tab,O); </span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p>The function <span class="math inline">\(\mathtt{sort}\)</span> is
+supposed to sort a table of distinct integers. By what the dots
+(&lt;...&gt;) should be respectively replaced?</p>
+<p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">find_forward</span>(tab,i+<span class="number">1</span>) ; <span class="built_in">find_back</span>(tab,i<span class="number">-1</span>)</span><br></pre></td></tr></table></figure></p>
+<p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">pull</span>(tab,i) ; <span class="built_in">push</span>(tab,i)</span><br></pre></td></tr></table></figure></p>
+<p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">find_forward</span>(tab,i) ; <span class="built_in">find_back</span>(tab,i)</span><br></pre></td></tr></table></figure></p>
+<p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">find_forward</span>(tab,i) ; <span class="built_in">push</span>(tab,i)</span><br></pre></td></tr></table></figure></p>
+<p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">push</span>(tab, i<span class="number">-1</span>) ; <span class="built_in">pull</span>(tab, i+<span class="number">1</span>)</span><br></pre></td></tr></table></figure></p>
+<hr>
+<p>When a class A inherits of a class B:</p>
+<ul>
+<li>All instances of B are instances of A</li>
+<li>None of these answers are true</li>
+<li>B can inherit of A</li>
+<li>B is a specialization of A</li>
+<li><span style="color:red;">The constructors of B are inherited by
+A</span></li>
+</ul>
+<hr>
+<p>The table PRODUCT has the following structure : ID_FIRM CHAR(2),
+ID_PROD CHAR(4), NAME VARCHAR(30), PRICE INTEGER, VOLUME INTEGER. The
+primary key is on the columns ID_FIRM and ID_PROD. Which column can
+contain the value NULL?</p>
+<ul>
+<li>only PRICE</li>
+<li>none</li>
+<li>maybe ID_FIRM, ID_PROD, NAME, VOLUME</li>
+<li>all</li>
+<li><span style="color:red;">maybe NAME, PRICE, VOLUME</span></li>
+</ul>
+<hr>
+<p>Which of these two algorithms is the most efficient? (b and c are
+defined elsewhere)</p>
+<figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">For j Varying From <span class="number">1</span> To <span class="number">4000</span> Do</span><br><span class="line">    a[j] ← <span class="number">0</span> </span><br><span class="line">    For i Varying From <span class="number">1</span> To <span class="number">4000</span> Do</span><br><span class="line">        a[j] ← a[j]+b*c[i,j]</span><br><span class="line">    End For</span><br><span class="line">End For</span><br></pre></td></tr></table></figure>
+<figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">For j Varying From <span class="number">1</span> To <span class="number">4000</span> Do</span><br><span class="line">    a[j] ← <span class="number">0</span> </span><br><span class="line">    For i Varying From <span class="number">1</span> To <span class="number">4000</span> Do</span><br><span class="line">        a[j] ← a[j]+c[i,j]</span><br><span class="line">    End For</span><br><span class="line">    a[j] ← a[j]*b</span><br><span class="line">End For</span><br></pre></td></tr></table></figure>
+<ul>
+<li>Algorithms 1 and 2 do not lead to the same result</li>
+<li>There is no difference</li>
+<li><span style="color:red;">Algorithm 2</span></li>
+<li>Algorithm 1</li>
+</ul>
+<hr>
+<p>What is the benefit of a 64 bits processor over a 32 bits
+processor?</p>
+<ul>
+<li><span style="color:red;">Can use more than 4 Gb memory</span></li>
+<li>Compute numbers with higher accuracy</li>
+<li>None of the above answers</li>
+<li>Increase network speed</li>
+<li>Allow using higher capacity disks</li>
+</ul>
+<hr>
+<p>Let n be the decimal number 943. Its binary representation is:</p>
+<ul>
+<li><span style="color:red;">11 1010 1111</span></li>
+<li>11 1011 0100</li>
+<li>11 1101 0111</li>
+<li>11 0101 0110</li>
+<li>11 1010 1011</li>
+</ul>
+<hr>
+<p>For the following algorithm, what relation is correct between the
+inputs p and q (both are positive natural numbers) and the output r?</p>
+<figure class="highlight basic"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">def</span> f(p,q)</span><br><span class="line">    <span class="keyword">if</span> p%q!=<span class="number">0</span> <span class="keyword">and</span> q%p!=<span class="number">0</span>:</span><br><span class="line">        s=<span class="number">1</span></span><br><span class="line">        u=<span class="number">1</span></span><br><span class="line">        v=<span class="number">1</span></span><br><span class="line">        <span class="keyword">while</span>(u!=<span class="number">0</span>) <span class="keyword">or</span> (v!=<span class="number">0</span>):</span><br><span class="line">            s=s+<span class="number">1</span></span><br><span class="line">            u=(u+<span class="number">1</span>)%p</span><br><span class="line">            v=(v+<span class="number">1</span>)%q</span><br><span class="line">        <span class="keyword">return</span> s</span><br><span class="line">    <span class="keyword">else</span>:</span><br><span class="line">        <span class="keyword">return</span> p</span><br></pre></td></tr></table></figure>
+<ul>
+<li><span style="color:red;">p ≤ r ≤ p * q</span></li>
+<li>min(p,q) ≤ r ≤ p+q</li>
+<li>r ≥ max(p,q)</li>
+<li>r ≤ max(p,q)</li>
+<li>r ≥ q</li>
+</ul>
+<hr>
+<p>In Python, what will happen when trying to execute the following
+code?</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">a = [<span class="number">1</span>]</span><br><span class="line"><span class="keyword">def</span> <span class="title function_">f</span>(<span class="params">x</span>):</span><br><span class="line">    x = x+[<span class="number">1</span>]</span><br><span class="line">    <span class="keyword">return</span> x</span><br><span class="line"></span><br><span class="line">b = f(a)</span><br><span class="line">b[<span class="number">0</span>] = <span class="number">0</span></span><br><span class="line"><span class="built_in">print</span>(a)</span><br><span class="line">printf(b)</span><br></pre></td></tr></table></figure>
+<ul>
+<li>The execution produces the following out put:[2] [0]</li>
+<li>The execution produces the following out put:[1,1] [0,1]</li>
+<li>The execution produces the following out put:[1] [0,1]</li>
+<li>The execution produces the following out put:[0,1] [0,1]</li>
+<li>An error occurs on line 3.</li>
+</ul>
+<hr>
+<p>In SQL, which function allows to ret rieve a maximum value of a
+selected column?</p>
+<ul>
+<li>MAX()</li>
+<li>UPPER()</li>
+<li>UBOUND()</li>
+<li>HLIMIT()</li>
+<li>TOP()</li>
+</ul>
+<hr>
+<p>In SQL, wchich clause is used to delete tuples from a table?</p>
+<ul>
+<li>CLEAR</li>
+<li>REMOVE</li>
+<li>DROP</li>
+<li>ERASE</li>
+<li>DELETE</li>
+</ul>
+<hr>
+<p>In Python, what is the name of the following language construct?</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[i+5 for i in L if i&gt;10]</span><br></pre></td></tr></table></figure>
+<ul>
+<li>A contraction.</li>
+<li>A comprehension.</li>
+<li>An iteration.</li>
+<li>A completion.</li>
+<li>An extension.</li>
+</ul>
 	  
 
 	  <div>
