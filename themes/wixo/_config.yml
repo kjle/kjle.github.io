@@ -1,0 +1,13 @@
+rss: atom.xml
+fancybox: false
+favicon: favicon.png
+inverse_sort: false  # Whether to sort all notes inversely
+fold: false  # Whether to fold all the notebooks initially
+scratch_name: Scratch  # Notebook name of posts without categories variables
+google_analytics:
+math:
+  enable: true
+  per_page: false
+  engine: mathjax
+  mathjax:
+    cdn: //cdn.jsdelivr.net/npm/mathjax@2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML
