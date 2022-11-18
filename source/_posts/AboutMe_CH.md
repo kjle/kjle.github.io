@@ -5,6 +5,16 @@ categories: About Me
 mathjax: true
 ---
 
+## 个人信息
+
+<font size="5"><b>康佳乐</b></font>
+
+中国
+
+2001年3月12日
+
+Email: kanngjle@gmail.com
+
 ## 教育背景
 
 ### 工学学士学位

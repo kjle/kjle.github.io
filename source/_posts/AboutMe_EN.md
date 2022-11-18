@@ -4,6 +4,15 @@ date: 2022-11-18
 categories: About Me
 mathjax: true
 ---
+## PERSONAL INFO
+
+<font size="5"><b>KANG</b> Jiale</font>
+
+CHINESE
+
+12 MAR 2001
+
+Email: kanngjle@gmail.com
 
 ## EDUCATION BACKGROUND
 
