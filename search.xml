@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Resume (EN)</title>
+      <link href="/2022/11/18/AboutMe/"/>
+      <url>/2022/11/18/AboutMe/</url>
+      
+        <content type="html"><![CDATA[<h2 id="education-background">EDUCATION BACKGROUND</h2><h3 id="bachelor-of-engineering">Bachelor of Engineering</h3><p><strong>Xidian University</strong>, Xi’an, Shaanxi, CHINA</p><p>AUG 2019 - JUNE 2023</p><ul><li>Major in <strong>Electronic Information Engineering</strong>, corecourses including <span style="color:blue;">Circuit and Systems, Signaland Information Processing</span></li><li>GPA 3.8/4.0 RANK 6/97</li></ul><h2 id="honours-and-awards">HONOURS AND AWARDS</h2><ul><li><span style="color:red;">Second Prize</span> in Shaanxi Division of<strong>N</strong>ational <strong>U</strong>ndergraduate<strong>E</strong>lectronic <strong>D</strong>esign<strong>C</strong>ontest, 2021</li><li><span style="color:red;">First Prize</span> in Shaanxi Division ofNational <strong>M</strong>athematical <strong>C</strong>ontest in<strong>M</strong>odeling for College Students, 2021</li><li><span style="color:red;">Honorable Mention</span> of<strong>M</strong>athematical <strong>C</strong>ontest in<strong>M</strong>odeling Certificate of Achievement Award, 2021</li><li><span style="color:red;">Second Prize</span> of National CollegeStudents Mathematics Competition (Non-Mathematics Major), 2020</li><li>University <span style="color:red;">First-Class Scholarship (top5%)</span>, 2019/2020, 2020/2021 AND 2021/2022</li></ul><h2 id="projects">PROJECTS</h2><h3 id="project-mono-cycle-processor-simulation-vhdl-excellent">ProjectMono-Cycle Processor: Simulation VHDL | Excellent</h3><p>7 APR 2022 – 30 APR 2022</p><ul><li>Designed and simulated a processor by using VHDL.</li><li>Wrote an English Report.</li><li>See more in <a href="https://github.com/kjle/VHDL-2022-Spring">github-VHDL</a>.</li></ul><h3 id="contest-signal-distortion-measurement-device-second-prize-in-shaanxi">Contest:Signal distortion measurement device | Second Prize in Shaanxi</h3><p>4 NOV 2021 – 7 NOV 2021</p><ul><li>Calculate the FFT of the input signal from ADC and analyzed harmonicdistortion THD of the input signal.</li><li>Designed the overall scheme, optimized the MCU program (TI-F28377),and conducted error corrections.</li><li>See more in <a href="https://github.com/kjle/2021-NUEDC-A">github-NUEDC</a>.</li></ul><h3 id="contest-fast-active-reflector-shape-adjustment-research-first-prize-in-shaanxi">Contest:"FAST" active reflector shape adjustment research | First Prize inShaanxi</h3><p>26 JUL 2021 – 31 JUL 2021</p><ul><li>Wrote MATLAB program to draw a conclusion according to theestablished physical model and parameters, and found the best "FAST"reflector.</li><li>See more in <a href="https://github.com/kjle/2021-CUMCM-A">github-CUMCM</a>.</li></ul><h3 id="project-c-jeu-de-la-vie-score-91100">Project – C: Jeu de la Vie| Score 91/100</h3><p>1 MAR 2021 – 1 JUL 2021</p><ul><li>Debugged the program by using C in Ubuntu18.04.</li><li>Wrote reports in French.</li><li>Realized the game of life, built in a variety of initialpatterns.</li><li>See more in <a href="https://github.com/kjle/Project-C-2021-Spring">github-C</a>.</li></ul><h2 id="activities">ACTIVITIES</h2><p><strong>Member of Science and Technology InnovationDepartment</strong> | XIDIAN UNIVERSITY</p><p>SEP 2020 – JUL 2021</p><ul><li>Compiled yearbook of the Science and Innovation Department and heldlectures on science and technology.</li><li>Published promotional materials for disciplinary competitions.</li><li>Operated innovation and entrepreneurship sector of WeChat OfficialAccount.</li></ul><p><strong>Excellent Volunteer</strong> | SPARK CUP OF XIDIAN</p><p>NOV 2020 – DEC 2020</p><ul><li>Assisted in planning the overall process.</li><li>Communicated with relevant personnel.</li></ul><p><strong>Excellent Volunteer</strong> | XI'AN MAKER FESTIVAL</p><p>OCT 2019 – NOV 2019</p><ul><li>Coordinated works and personnel during the Xi'an MakerFestival.</li></ul><h2 id="language">LANGUAGE</h2><p><strong>CHINESE</strong> - Mother Tongue</p><p><strong>FRENCH</strong> - Listening - B1, Reading - B2, Grammar - B1(TCF)</p><p><strong>ENGLISH</strong> - B1~B2</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> About Me </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Mathematics</title>
       <link href="/2022/05/24/BasicKnowledge_Mathematics/"/>
       <url>/2022/05/24/BasicKnowledge_Mathematics/</url>
