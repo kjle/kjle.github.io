@@ -12,17 +12,15 @@ CHINESE
 
 12 MAR 2001
 
-Email: kanngjle@gmail.com
+Email: <a href="mailto:kanngjle@gmail.com">kanngjle@gmail.com</a>
 
 ## EDUCATION BACKGROUND
 
 ### Bachelor of Engineering
-**Xidian University**, Xi’an, Shaanxi, CHINA
-
-AUG 2019 - JUNE 2023
+**Xidian University**, Xi’an, Shaanxi, CHINA | AUG 2019 - JUNE 2023
 
 - Major in **Electronic Information Engineering**, core courses including <span style="color:blue;">Circuit and Systems, Signal and Information Processing</span>
-- GPA 3.8/4.0, RANK 6/97
+- GPA 3.8/4.0
 
 ## HONOURS AND AWARDS
 
@@ -92,8 +90,6 @@ AUG 2019 - JUNE 2023
 
 ## LANGUAGE
 
-**CHINESE** - Mother Tongue 
-
-**FRENCH** - Listening - B1, Reading - B2, Grammar - B1 (TCF) 
-
-**ENGLISH** - B1~B2
+- **CHINESE** - Mother Tongue 
+- **FRENCH** - Listening - B1, Reading - B2, Grammar - B1 (TCF) 
+- **ENGLISH** - B1~B2

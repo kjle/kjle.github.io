@@ -13,25 +13,23 @@ mathjax: true
 
 2001年3月12日
 
-Email: kanngjle@gmail.com
+Email: <a href="mailto:kanngjle@gmail.com">kanngjle@gmail.com</a>
 
 ## 教育背景
 
 ### 工学学士学位
-**西安电子科技大学**，中华人民共和国 陕西省 西安市 长安区 兴隆街道266号
-
-2019年9月-2023年6月
+**西安电子科技大学**，中华人民共和国 陕西省 西安市 长安区 兴隆街道266号 | 2019年9月-2023年6月
 
 - 专业为**电子信息工程**，核心专业课包括<span style="color:blue;">电路与系统、信号处理、数字电路、模拟电路、ARM处理器</span>等。
-- GPA 3.8/4.0，排名 6/97
+- GPA 3.8/4.0
 
 ## 获奖与荣誉
 
-- 2021年TI杯全国大学生电子设计竞赛（NUEDC）陕西赛区<span style="color:red;">二等奖</span>
-- 2021年全国大学生数学建模竞赛（CUMCM）陕西赛区<span style="color:red;">一等奖</span>
-- 2020年美国大学生数学建模竞赛（MCM/ICM）<span style="color:red;">Honorable Mention</span>
-- 2020年全国大学生数学竞赛（非数学专业）<span style="color:red;">二等奖</span>
-- 2019/2020,2020/2021和2021/2022<span style="color:red;">校级一等奖学金（前5%）</span>
+- 2021年TI杯全国大学生电子设计竞赛（NUEDC）陕西赛区<span style="color:red;">二等奖</span>；
+- 2021年全国大学生数学建模竞赛（CUMCM）陕西赛区<span style="color:red;">一等奖</span>；
+- 2020年美国大学生数学建模竞赛（MCM/ICM）<span style="color:red;">Honorable Mention</span>；
+- 2020年全国大学生数学竞赛（非数学专业）<span style="color:red;">二等奖</span>；
+- 2019/2020,2020/2021和2021/2022获得<span style="color:red;">校级一等奖学金（前5%）</span>。
 
 ## 参与项目
 
@@ -93,8 +91,6 @@ Email: kanngjle@gmail.com
 
 ## 语言
 
-**中文** - 母语
-
-**法语** - 听 - B1, 读 - B2, 语法 - B1 （参加TCF)
-
-**英语** - B1~B2
+- **中文** - 母语
+- **法语** - 听 - B1, 读 - B2, 语法 - B1 （参加TCF)
+- **英语** - B1~B2
