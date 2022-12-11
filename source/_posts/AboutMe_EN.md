@@ -81,7 +81,7 @@ Email: <a href="mailto:kanngjle@gmail.com">kanngjle@gmail.com</a>
 
 **Programmer & Simulation**
 
-- C/C++, Matlab, Python, VHDL, Verilog, Assembly(ARM)
+- C/C++, Matlab, Python, JAVA, VHDL, Verilog, Assembly(ARM)
 
 **Hardware & Design**
 

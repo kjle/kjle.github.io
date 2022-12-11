@@ -82,7 +82,7 @@ Email: <a href="mailto:kanngjle@gmail.com">kanngjle@gmail.com</a>
 
 **程序与仿真**
 
-- C/C++, Matlab, Python, VHDL, Verilog, Assembly(ARM)
+- C/C++, Matlab, Python, JAVA, VHDL, Verilog, Assembly(ARM)
 
 **硬件与设计**
 
