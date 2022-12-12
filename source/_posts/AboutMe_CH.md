@@ -13,12 +13,12 @@ mathjax: true
 
 2001年3月12日
 
-Email: <a href="mailto:kanngjle@gmail.com">kanngjle@gmail.com</a>
+Email: <a href="mailto:kanngjle@gmail.com">gaalok.kang@gmail.com</a>
 
 ## 教育背景
 
 ### 工学学士学位
-**西安电子科技大学**，中华人民共和国 陕西省 西安市 长安区 兴隆街道266号 | 2019年9月-2023年6月
+2019年9月-2023年6月 | **西安电子科技大学**，中华人民共和国 陕西省 西安市 长安区 兴隆街道266号
 
 - 专业为**电子信息工程**，核心专业课包括<span style="color:blue;">电路与系统、信号处理、数字电路、模拟电路、ARM处理器</span>等。
 - GPA 3.8/4.0
@@ -63,18 +63,18 @@ Email: <a href="mailto:kanngjle@gmail.com">kanngjle@gmail.com</a>
 
 ## 参与活动
 
-**大学生科学与技术协会** | 西安电子科技大学 | 2020年9月-2021年7月
+2020年9月-2021年7月 | **大学生科学与技术协会** | 西安电子科技大学
 
 - 编写部门年鉴，并定期举办科技型讲座；
 - 发布学科竞赛相关指导手册《西电竞赛一本通》；
 - 参与运营创新创业相关微信公众号。
 
-**优秀志愿者** | 西电星火杯 | 2020年11月-2020年12月
+2020年11月-2020年12月 | **优秀志愿者** | 西电星火杯
 
 - 参与整体活动策划；
 - 协调相关人员，协助举办活动。
 
-**优秀志愿者** | 西安创客节 | 2019年10月-2019年11月
+2019年10月-2019年11月 | **优秀志愿者** | 西安创客节
 
 - 协调相关企业与参展人员。
 
@@ -86,11 +86,11 @@ Email: <a href="mailto:kanngjle@gmail.com">kanngjle@gmail.com</a>
 
 **硬件与设计**
 
-- Solidworks, Quartus Prime(Intel FPGA), Vivado(Xilinx FPGA), Altium Designer, STM相关处理器
+- Solidworks, Quartus Prime(Intel FPGA), Vivado(Xilinx FPGA), Altium Designer, STM系列处理器
 - Multisim, LTSpice
 
 ## 语言
 
 - **中文** - 母语
-- **法语** - 听 - B1, 读 - B2, 语法 - B1 （参加TCF)
+- **法语** - 听 - B1, 读 - B2, 语法 - B1 （TCF考试)
 - **英语** - B1~B2

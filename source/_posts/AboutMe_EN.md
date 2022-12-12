@@ -12,12 +12,12 @@ CHINESE
 
 12 MAR 2001
 
-Email: <a href="mailto:kanngjle@gmail.com">kanngjle@gmail.com</a>
+Email: <a href="mailto:kanngjle@gmail.com">gaalok.kang@gmail.com</a>
 
 ## EDUCATION BACKGROUND
 
 ### Bachelor of Engineering
-**Xidian University**, Xi’an, Shaanxi, CHINA | AUG 2019 - JUNE 2023
+AUG 2019 - JUNE 2023 | **Xidian University**, Xi’an, Shaanxi, CHINA
 
 - Major in **Electronic Information Engineering**, core courses including <span style="color:blue;">Circuit and Systems, Signal and Information Processing</span>
 - GPA 3.8/4.0
@@ -62,18 +62,18 @@ Email: <a href="mailto:kanngjle@gmail.com">kanngjle@gmail.com</a>
 
 ## ACTIVITIES
 
-**Member of Science and Technology Innovation Department** | XIDIAN UNIVERSITY | SEP 2020 – JUL 2021
+SEP 2020 – JUL 2021 | **Member of Science and Technology Innovation Department** | XIDIAN UNIVERSITY
 
 - Compiled yearbook of the Science and Innovation Department and held lectures on science and technology.
 - Published promotional materials for disciplinary competitions.
 - Operated innovation and entrepreneurship sector of WeChat Official Account.
 
-**Excellent Volunteer** | SPARK CUP OF XIDIAN | NOV 2020 – DEC 2020
+NOV 2020 – DEC 2020 | **Excellent Volunteer** | SPARK CUP OF XIDIAN
 
 - Assisted in planning the overall process.
 - Communicated with relevant personnel.
 
-**Excellent Volunteer** | XI'AN MAKER FESTIVAL | OCT 2019 – NOV 2019
+OCT 2019 – NOV 2019 | **Excellent Volunteer** | XI'AN MAKER FESTIVAL
 
 - Coordinated works and personnel during the Xi'an Maker Festival.
 
