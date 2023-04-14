@@ -4,7 +4,6 @@ date: 2023-4-14
 categories: About Me
 mathjax: true
 ---
-
 ## 个人信息
 
 <font size="5"><b>康佳乐</b></font>
@@ -17,11 +16,30 @@ Email: <a href="mailto:kanngjle@gmail.com">gaalok.kang@gmail.com</a>
 
 ## 教育背景
 
-### 工学学士学位
-2019年9月-2023年6月 | **西安电子科技大学**，中华人民共和国，陕西省，西安市，长安区，兴隆街道266号
+<div style="height: 600px;">
+<div style="height: 300px; width:100%;">
+<h3>工程师文凭</h3>
+<a href="https://www.telecom-paris.fr/"><img src="/../../../../images/telecom_paris_logo.png" style="width:15%;float:right; margin:10px;"></a>
+<p style="font-style:normal; margin-top:10px;">
+    2023年9月-2025年6月 | <strong>巴黎理工学院所属的<a href="https://www.telecom-paris.fr/" style="color: black">巴黎高等电信学院</a></strong>，法国，巴黎，Palaiseau Cedex
+<!-- <ul>
+    <li>专业为<strong>电子信息工程</strong>，核心专业课包括<span style="color:blue;">电路与系统、信号处理、数字电路、模拟电路、ARM处理器</span>等。</li>
+    <li>GPA 3.8/4.0</li>
+</ul> -->
+</p>
+</div>
+<div style="height: 300px; width:100%;">
+<h3>工学学士学位</h3>
+<a href="https://www.xidian.edu.cn/"><img src="/../../../../images/xidian_logo.jpg" style="width:30%;float:right; margin:10px;"></a>
+    2019年9月-2023年6月 | <strong><a href="https://www.xidian.edu.cn/" style="color: black">西安电子科技大学</a></strong>，中国，陕西省，西安市
+    <ul>
+        <li>专业为<strong>电子信息工程</strong>，核心专业课包括<span style="color:blue;">电路与系统、信号处理、数字电路、模拟电路、ARM处理器</span>等。</li>
+        <li>GPA 3.8/4.0</li>
+    </ul>
+</p>
+</div>
+</div>
 
-- 专业为**电子信息工程**，核心专业课包括<span style="color:blue;">电路与系统、信号处理、数字电路、模拟电路、ARM处理器</span>等。
-- GPA 3.8/4.0
 
 ## 获奖与荣誉
 

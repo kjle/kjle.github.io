@@ -16,11 +16,31 @@ Email: <a href="mailto:kanngjle@gmail.com">gaalok.kang@gmail.com</a>
 
 ## EDUCATION BACKGROUND
 
-### Bachelor of Engineering
-AUG 2019 - JUNE 2023 | **Xidian University**, Xi’an, Shaanxi, CHINA
+<div style="height: 600px;">
+<div style="height: 300px; width:100%;">
+<h3>Diplôme d'Ingénieur</h3>  
+<a href="https://www.telecom-paris.fr/"><img src="/../../../../images/telecom_paris_logo.png" style="width:15%;float:right; margin:10px;"></a>
+<p style="font-style:normal; margin-top:10px;">
+    SEPT 2023 - JUNE 2025 | <strong>Institut Polytechnique de Paris - <a href="https://www.telecom-paris.fr/" style="color: black">Télécom Paris</a></strong>, Palaiseau Cedex, Paris, France
+    <!-- <ul>
+        <li>专业为<strong>电子信息工程</strong>，核心专业课包括<span style="color:blue;">电路与系统、信号处理、数字电路、模拟电路、ARM处理器</span>等。</li>
+        <li>GPA 3.8/4.0</li>
+    </ul> -->
+</p>
+</div>
+<div style="height: 300px; width:100%;">
+<h3>Bachelor of Engineering</h3>
+<a href="https://www.xidian.edu.cn/"><img src="/../../../../images/xidian_logo.jpg" style="width:30%;float:right; margin:10px;"></a>
+<p style="font-style:normal; margin-top:10px;">
+    AUG 2019 - JUNE 2023 | <strong><a href="https://www.xidian.edu.cn/" style="color: black">Xidian University</a></strong>, Xi’an, Shaanxi, CHINA
+    <ul>
+        <li>Major in <strong>Electronic Information Engineering</strong>, core courses including <span style="color:blue;">Circuit and Systems, Signal and Information Processing</span></li>.
+        <li>GPA 3.8/4.0</li>
+    </ul>
+</p>
+</div>
+</div>
 
-- Major in **Electronic Information Engineering**, core courses including <span style="color:blue;">Circuit and Systems, Signal and Information Processing</span>
-- GPA 3.8/4.0
 
 ## HONOURS AND AWARDS
 
