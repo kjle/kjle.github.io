@@ -1,6 +1,6 @@
 ---
 title: Resume
-date: 2022-11-18
+date: 2023-4-14
 categories: About Me
 mathjax: true
 ---
@@ -91,5 +91,5 @@ OCT 2019 – NOV 2019 | **Excellent Volunteer** | XI'AN MAKER FESTIVAL
 ## LANGUAGE
 
 - **CHINESE** - Mother Tongue 
-- **FRENCH** - Listening - B1, Reading - B2, Grammar - B1 (TCF) 
-- **ENGLISH** - B1~B2
+- **FRENCH** - B2 (DELF)
+- **ENGLISH** - B2 (TOEIC-LR)

@@ -3,6 +3,7 @@ title: Mathematics
 date: 2022-5-24
 categories: Basic Knowladge
 mathjax: true
+hidden: true
 ---
 ## Guide
 

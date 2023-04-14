@@ -1,6 +1,6 @@
 ---
 title: 简历
-date: 2022-11-18
+date: 2023-4-14
 categories: About Me
 mathjax: true
 ---
@@ -18,7 +18,7 @@ Email: <a href="mailto:kanngjle@gmail.com">gaalok.kang@gmail.com</a>
 ## 教育背景
 
 ### 工学学士学位
-2019年9月-2023年6月 | **西安电子科技大学**，中华人民共和国 陕西省 西安市 长安区 兴隆街道266号
+2019年9月-2023年6月 | **西安电子科技大学**，中华人民共和国，陕西省，西安市，长安区，兴隆街道266号
 
 - 专业为**电子信息工程**，核心专业课包括<span style="color:blue;">电路与系统、信号处理、数字电路、模拟电路、ARM处理器</span>等。
 - GPA 3.8/4.0
@@ -92,5 +92,5 @@ Email: <a href="mailto:kanngjle@gmail.com">gaalok.kang@gmail.com</a>
 ## 语言
 
 - **中文** - 母语
-- **法语** - 听 - B1, 读 - B2, 语法 - B1 （TCF考试)
-- **英语** - B1~B2
+- **法语** - B2 (DELF)
+- **英语** - B2 (TOEIC-LR)
