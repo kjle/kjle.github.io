@@ -61,7 +61,7 @@
 	  
 
 	  <!-- content -->
-	  <p><a class="btn btn-info" href="/zh-CN/%E7%AE%80%E5%8E%86/">简体中文</a></p>
+	  <p><a style="float:right" class="btn btn-info" href="/zh-CN/%E7%AE%80%E5%8E%86/">简体中文</a></p>
 <h2 id="personal-info">PERSONAL INFO</h2>
 <p><font size="5"><b>KANG</b> Jiale</font></p>
 <p>CHINESE</p>
@@ -313,6 +313,22 @@ Designer, STM MCU</li>
      searchFunc(path, 'local-search-input', 'local-search-result');
    </script>
 
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+            processEscapes: true
+        }
+    });
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax();
+        for (var i = 0; i < all.length; ++i)
+            all[i].SourceElement().parentNode.className += ' has-jax';
+    });
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
 </body>
 </html>
