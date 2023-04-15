@@ -4,30 +4,11 @@
   
     
     <entry>
-      <title>简历</title>
-      <link href="/2023/04/14/AboutMe_CH/"/>
-      <url>/2023/04/14/AboutMe_CH/</url>
+      <title>resume</title>
+      <link href="/en/resume/"/>
+      <url>/en/resume/</url>
       
-        <content type="html"><![CDATA[<h2 id="个人信息">个人信息</h2><p><font size="5"><b>康佳乐</b></font></p><p>中国</p><p>2001年3月12日</p><p>Email:<a href="mailto:kanngjle@gmail.com">gaalok.kang@gmail.com</a></p><h2 id="教育背景">教育背景</h2><div style="height: 600px;"><div style="height: 300px; width:100%;"><h3>工程师文凭</h3><a href="https://www.telecom-paris.fr/"><img src="/../../../../images/telecom_paris_logo.png" style="width:15%;float:right; margin:10px;"></a><p style="font-style:normal; margin-top:10px;">2023年9月-2025年6月 |<strong>巴黎理工学院所属的<a href="https://www.telecom-paris.fr/" style="color: black">巴黎高等电信学院</a></strong>，法国，巴黎，PalaiseauCedex <!-- <ul>    <li>专业为<strong>电子信息工程</strong>，核心专业课包括<span style="color:blue;">电路与系统、信号处理、数字电路、模拟电路、ARM处理器</span>等。</li>    <li>GPA 3.8/4.0</li></ul> --></p></div><div style="height: 300px; width:100%;"><h3>工学学士学位</h3><a href="https://www.xidian.edu.cn/"><img src="/../../../../images/xidian_logo.jpg" style="width:30%;float:right; margin:10px;"></a>2019年9月-2023年6月 |<strong><a href="https://www.xidian.edu.cn/" style="color: black">西安电子科技大学</a></strong>，中国，陕西省，西安市<ul><li>专业为<strong>电子信息工程</strong>，核心专业课包括<span style="color:blue;">电路与系统、信号处理、数字电路、模拟电路、ARM处理器</span>等。</li><li>GPA 3.8/4.0</li></ul><p></p></div></div><h2 id="获奖与荣誉">获奖与荣誉</h2><ul><li>2021年TI杯全国大学生电子设计竞赛（NUEDC）陕西赛区<span style="color:red;">二等奖</span>；</li><li>2021年全国大学生数学建模竞赛（CUMCM）陕西赛区<span style="color:red;">一等奖</span>；</li><li>2020年美国大学生数学建模竞赛（MCM/ICM）<span style="color:red;">Honorable Mention</span>；</li><li>2020年全国大学生数学竞赛（非数学专业）<span style="color:red;">二等奖</span>；</li><li>2019/2020,2020/2021和2021/2022获得<span style="color:red;">校级一等奖学金（前5%）</span>。</li></ul><h2 id="参与项目">参与项目</h2><h3 id="项目单周期处理器仿真-优秀">项目：单周期处理器仿真 | 优秀</h3><p>2022年4月7日-2022年4月30日</p><ul><li>使用VHDL设计并仿真ARM处理器；</li><li>撰写英文报告；</li><li>更多内容参考<a href="https://github.com/kjle/VHDL-2022-Spring">github-VHDL</a>。</li></ul><h3 id="竞赛失真度测量装置-二等奖">竞赛：失真度测量装置 | 二等奖</h3><p>2021年11月4日-2021年11月7日</p><ul><li>通过ADC采样输入信号，FFT处理后计算总谐波失真度；</li><li>设计程序，使用TI-F28377芯片作为主控；</li><li>更多内容参考<a href="https://github.com/kjle/2021-NUEDC-A">github-NUEDC</a>。</li></ul><h3 id="竞赛fast射电望远镜反射面的调整-一等奖">竞赛：“FAST”射电望远镜反射面的调整| 一等奖</h3><p>2021年7月26日-2021年7月31日</p><ul><li>设计MATLAB程序用于求解建立的相关微分方程模型，并找到相关参数来描述“FAST”射电望远镜的最佳反射面形状；</li><li>更多内容参考<a href="https://github.com/kjle/2021-CUMCM-A">github-CUMCM</a>。</li></ul><h3 id="c语言项目生命游戏-得分91100">C语言项目：生命游戏 |得分91/100</h3><p>2021年3月1日-2021年7月1日</p><ul><li>程序实现“生命游戏（<a href="https://zh.wikipedia.org/wiki/%E5%BA%B7%E5%A8%81%E7%94%9F%E5%91%BD%E6%B8%B8%E6%88%8F">wikipedia</a>)”并初始化了几种不同的模型；</li><li>在Ubuntu18.04环境下设计程序；</li><li>撰写报告；</li><li>更多内容参考<a href="https://github.com/kjle/Project-C-2021-Spring">github-C</a>。</li></ul><h2 id="参与活动">参与活动</h2><p>2020年9月-2021年7月 | <strong>大学生科学与技术协会</strong> |西安电子科技大学</p><ul><li>编写部门年鉴，并定期举办科技型讲座；</li><li>发布学科竞赛相关指导手册《西电竞赛一本通》；</li><li>参与运营创新创业相关微信公众号。</li></ul><p>2020年11月-2020年12月 | <strong>优秀志愿者</strong> | 西电星火杯</p><ul><li>参与整体活动策划；</li><li>协调相关人员，协助举办活动。</li></ul><p>2019年10月-2019年11月 | <strong>优秀志愿者</strong> | 西安创客节</p><ul><li>协调相关企业与参展人员。</li></ul><h2 id="相关技能">相关技能</h2><p><strong>程序与仿真</strong></p><ul><li>C/C++, Matlab, Python, JAVA, VHDL, Verilog, Assembly(ARM)</li></ul><p><strong>硬件与设计</strong></p><ul><li>Solidworks, Quartus Prime(Intel FPGA), Vivado(Xilinx FPGA), AltiumDesigner, STM系列处理器</li><li>Multisim, LTSpice</li></ul><h2 id="语言">语言</h2><ul><li><strong>中文</strong> - 母语</li><li><strong>法语</strong> - B2 (DELF)</li><li><strong>英语</strong> - B2 (TOEIC-LR)</li></ul>]]></content>
-      
-      
-      <categories>
-          
-          <category> About Me </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Resume</title>
-      <link href="/2023/04/14/AboutMe_EN/"/>
-      <url>/2023/04/14/AboutMe_EN/</url>
-      
-        <content type="html"><![CDATA[<h2 id="PERSONAL-INFO"><a href="#PERSONAL-INFO" class="headerlink" title="PERSONAL INFO"></a>PERSONAL INFO</h2><p><font size="5"><b>KANG</b> Jiale</font></p><p>CHINESE</p><p>12 MAR 2001</p><p>Email: <a href="mailto:kanngjle@gmail.com">gaalok.kang@gmail.com</a></p><h2 id="EDUCATION-BACKGROUND"><a href="#EDUCATION-BACKGROUND" class="headerlink" title="EDUCATION BACKGROUND"></a>EDUCATION BACKGROUND</h2><div style="height: 600px;"><div style="height: 300px; width:100%;"><h3>Diplôme d'Ingénieur</h3>  <a href="https://www.telecom-paris.fr/"><img src="/../../../../images/telecom_paris_logo.png" style="width:15%;float:right; margin:10px;"></a><p style="font-style:normal; margin-top:10px;">    SEPT 2023 - JUNE 2025 | <strong>Institut Polytechnique de Paris - <a href="https://www.telecom-paris.fr/" style="color: black">Télécom Paris</a></strong>, Palaiseau Cedex, Paris, France    <!-- <ul>        <li>专业为<strong>电子信息工程</strong>，核心专业课包括<span style="color:blue;">电路与系统、信号处理、数字电路、模拟电路、ARM处理器</span>等。</li>        <li>GPA 3.8/4.0</li>    </ul> --></p></div><div style="height: 300px; width:100%;"><h3>Bachelor of Engineering</h3><a href="https://www.xidian.edu.cn/"><img src="/../../../../images/xidian_logo.jpg" style="width:30%;float:right; margin:10px;"></a><p style="font-style:normal; margin-top:10px;">    AUG 2019 - JUNE 2023 | <strong><a href="https://www.xidian.edu.cn/" style="color: black">Xidian University</a></strong>, Xi’an, Shaanxi, CHINA    <ul>        <li>Major in <strong>Electronic Information Engineering</strong>, core courses including <span style="color:blue;">Circuit and Systems, Signal and Information Processing</span></li>.        <li>GPA 3.8/4.0</li>    </ul></p></div></div><h2 id="HONOURS-AND-AWARDS"><a href="#HONOURS-AND-AWARDS" class="headerlink" title="HONOURS AND AWARDS"></a>HONOURS AND AWARDS</h2><ul><li><span style="color:red;">Second Prize</span> in Shaanxi Division of <strong>N</strong>ational <strong>U</strong>ndergraduate <strong>E</strong>lectronic <strong>D</strong>esign <strong>C</strong>ontest, 2021</li><li><span style="color:red;">First Prize</span> in Shaanxi Division of National <strong>M</strong>athematical <strong>C</strong>ontest in <strong>M</strong>odeling for College Students, 2021</li><li><span style="color:red;">Honorable Mention</span> of <strong>M</strong>athematical <strong>C</strong>ontest in <strong>M</strong>odeling Certificate of Achievement Award, 2021</li><li><span style="color:red;">Second Prize</span> of National College Students Mathematics Competition (Non-Mathematics Major), 2020</li><li>University <span style="color:red;">First-Class Scholarship (top 5%)</span>, 2019&#x2F;2020, 2020&#x2F;2021 AND 2021&#x2F;2022</li></ul><h2 id="PROJECTS"><a href="#PROJECTS" class="headerlink" title="PROJECTS"></a>PROJECTS</h2><h3 id="Project-Mono-Cycle-Processor-Simulation-VHDL-Excellent"><a href="#Project-Mono-Cycle-Processor-Simulation-VHDL-Excellent" class="headerlink" title="Project Mono-Cycle Processor: Simulation VHDL | Excellent"></a>Project Mono-Cycle Processor: Simulation VHDL | Excellent</h3><p>7 APR 2022 – 30 APR 2022</p><ul><li>Designed and simulated a processor by using VHDL.</li><li>Wrote an English Report.</li><li>See more in <a href="https://github.com/kjle/VHDL-2022-Spring">github-VHDL</a>.</li></ul><h3 id="Contest-Signal-distortion-measurement-device-Second-Prize-in-Shaanxi"><a href="#Contest-Signal-distortion-measurement-device-Second-Prize-in-Shaanxi" class="headerlink" title="Contest: Signal distortion measurement device | Second Prize in Shaanxi"></a>Contest: Signal distortion measurement device | Second Prize in Shaanxi</h3><p>4 NOV 2021 – 7 NOV 2021</p><ul><li>Calculate the FFT of the input signal from ADC and analyzed harmonic distortion THD of the input signal.</li><li>Designed the overall scheme, optimized the MCU program (TI-F28377), and conducted error corrections.</li><li>See more in <a href="https://github.com/kjle/2021-NUEDC-A">github-NUEDC</a>.</li></ul><h3 id="Contest-“FAST”-active-reflector-shape-adjustment-research-First-Prize-in-Shaanxi"><a href="#Contest-“FAST”-active-reflector-shape-adjustment-research-First-Prize-in-Shaanxi" class="headerlink" title="Contest: “FAST” active reflector shape adjustment research | First Prize in Shaanxi"></a>Contest: “FAST” active reflector shape adjustment research | First Prize in Shaanxi</h3><p>26 JUL 2021 – 31 JUL 2021</p><ul><li>Wrote MATLAB program to draw a conclusion according to the established physical model and parameters, and found the best “FAST” reflector.</li><li>See more in <a href="https://github.com/kjle/2021-CUMCM-A">github-CUMCM</a>.</li></ul><h3 id="Project-–-C-Jeu-de-la-Vie-Score-91-x2F-100"><a href="#Project-–-C-Jeu-de-la-Vie-Score-91-x2F-100" class="headerlink" title="Project – C: Jeu de la Vie | Score 91&#x2F;100"></a>Project – C: Jeu de la Vie | Score 91&#x2F;100</h3><p>1 MAR 2021 – 1 JUL 2021</p><ul><li>Debugged the program by using C in Ubuntu18.04.</li><li>Wrote reports in French.</li><li>Realized the game of life, built in a variety of initial patterns.</li><li>See more in <a href="https://github.com/kjle/Project-C-2021-Spring">github-C</a>.</li></ul><h2 id="ACTIVITIES"><a href="#ACTIVITIES" class="headerlink" title="ACTIVITIES"></a>ACTIVITIES</h2><p>SEP 2020 – JUL 2021 | <strong>Member of Science and Technology Innovation Department</strong> | XIDIAN UNIVERSITY</p><ul><li>Compiled yearbook of the Science and Innovation Department and held lectures on science and technology.</li><li>Published promotional materials for disciplinary competitions.</li><li>Operated innovation and entrepreneurship sector of WeChat Official Account.</li></ul><p>NOV 2020 – DEC 2020 | <strong>Excellent Volunteer</strong> | SPARK CUP OF XIDIAN</p><ul><li>Assisted in planning the overall process.</li><li>Communicated with relevant personnel.</li></ul><p>OCT 2019 – NOV 2019 | <strong>Excellent Volunteer</strong> | XI’AN MAKER FESTIVAL</p><ul><li>Coordinated works and personnel during the Xi’an Maker Festival.</li></ul><h2 id="SKILLS"><a href="#SKILLS" class="headerlink" title="SKILLS"></a>SKILLS</h2><p><strong>Programmer &amp; Simulation</strong></p><ul><li>C&#x2F;C++, Matlab, Python, JAVA, VHDL, Verilog, Assembly(ARM)</li></ul><p><strong>Hardware &amp; Design</strong></p><ul><li>Solidworks, Quartus Prime(Intel FPGA), Vivado(Xilinx FPGA), Altium Designer, STM MCU</li><li>Multisim, LTSpice</li></ul><h2 id="LANGUAGE"><a href="#LANGUAGE" class="headerlink" title="LANGUAGE"></a>LANGUAGE</h2><ul><li><strong>CHINESE</strong> - Mother Tongue </li><li><strong>FRENCH</strong> - B2 (DELF)</li><li><strong>ENGLISH</strong> - B2 (TOEIC-LR)</li></ul>]]></content>
+        <content type="html"><![CDATA[<p><a class="btn btn-info" href="/zh-CN/%E7%AE%80%E5%8E%86/">简体中文</a></p><h2 id="personal-info">PERSONAL INFO</h2><p><font size="5"><b>KANG</b> Jiale</font></p><p>CHINESE</p><p>12 MAR 2001</p><p>Email:<a href="mailto:kanngjle@gmail.com">gaalok.kang@gmail.com</a></p><h2 id="education-background">EDUCATION BACKGROUND</h2><div style="height: 600px;"><div style="height: 300px; width:100%;"><h3>Diplôme d'Ingénieur</h3><a href="https://www.telecom-paris.fr/"><img src="/../../../../images/telecom_paris_logo.png" style="width:15%;float:right; margin:10px;"></a><p style="font-style:normal; margin-top:10px;">SEPT 2023 - JUNE 2025 | <strong>Institut Polytechnique de Paris -<a href="https://www.telecom-paris.fr/" style="color: black">TélécomParis</a></strong>, Palaiseau Cedex, Paris, France <!-- <ul>        <li>专业为<strong>电子信息工程</strong>，核心专业课包括<span style="color:blue;">电路与系统、信号处理、数字电路、模拟电路、ARM处理器</span>等。</li>        <li>GPA 3.8/4.0</li>    </ul> --></p></div><div style="height: 300px; width:100%;"><h3>Bachelor of Engineering</h3><a href="https://www.xidian.edu.cn/"><img src="/../../../../images/xidian_logo.jpg" style="width:30%;float:right; margin:10px;"></a><p style="font-style:normal; margin-top:10px;">AUG 2019 - JUNE 2023 |<strong><a href="https://www.xidian.edu.cn/" style="color: black">XidianUniversity</a></strong>, Xi’an, Shaanxi, CHINA<ul><li>Major in <strong>Electronic Information Engineering</strong>, corecourses including <span style="color:blue;">Circuit and Systems, Signaland Information Processing</span></li>.<li>GPA 3.8/4.0</li></ul></p></div></div><h2 id="honours-and-awards">HONOURS AND AWARDS</h2><ul><li><span style="color:red;">Second Prize</span> in Shaanxi Division of<strong>N</strong>ational <strong>U</strong>ndergraduate<strong>E</strong>lectronic <strong>D</strong>esign<strong>C</strong>ontest, 2021</li><li><span style="color:red;">First Prize</span> in Shaanxi Division ofNational <strong>M</strong>athematical <strong>C</strong>ontest in<strong>M</strong>odeling for College Students, 2021</li><li><span style="color:red;">Honorable Mention</span> of<strong>M</strong>athematical <strong>C</strong>ontest in<strong>M</strong>odeling Certificate of Achievement Award, 2021</li><li><span style="color:red;">Second Prize</span> of National CollegeStudents Mathematics Competition (Non-Mathematics Major), 2020</li><li>University <span style="color:red;">First-Class Scholarship (top5%)</span>, 2019/2020, 2020/2021 AND 2021/2022</li></ul><h2 id="projects">PROJECTS</h2><h3 id="project-mono-cycle-processor-simulation-vhdl-excellent">ProjectMono-Cycle Processor: Simulation VHDL | Excellent</h3><p>7 APR 2022 – 30 APR 2022</p><ul><li>Designed and simulated a processor by using VHDL.</li><li>Wrote an English Report.</li><li>See more in <a href="https://github.com/kjle/VHDL-2022-Spring">github-VHDL</a>.</li></ul><h3 id="contest-signal-distortion-measurement-device-second-prize-in-shaanxi">Contest:Signal distortion measurement device | Second Prize in Shaanxi</h3><p>4 NOV 2021 – 7 NOV 2021</p><ul><li>Calculate the FFT of the input signal from ADC and analyzed harmonicdistortion THD of the input signal.</li><li>Designed the overall scheme, optimized the MCU program (TI-F28377),and conducted error corrections.</li><li>See more in <a href="https://github.com/kjle/2021-NUEDC-A">github-NUEDC</a>.</li></ul><h3 id="contest-fast-active-reflector-shape-adjustment-research-first-prize-in-shaanxi">Contest:"FAST" active reflector shape adjustment research | First Prize inShaanxi</h3><p>26 JUL 2021 – 31 JUL 2021</p><ul><li>Wrote MATLAB program to draw a conclusion according to theestablished physical model and parameters, and found the best "FAST"reflector.</li><li>See more in <a href="https://github.com/kjle/2021-CUMCM-A">github-CUMCM</a>.</li></ul><h3 id="project-c-jeu-de-la-vie-score-91100">Project – C: Jeu de la Vie| Score 91/100</h3><p>1 MAR 2021 – 1 JUL 2021</p><ul><li>Debugged the program by using C in Ubuntu18.04.</li><li>Wrote reports in French.</li><li>Realized the game of life, built in a variety of initialpatterns.</li><li>See more in <a href="https://github.com/kjle/Project-C-2021-Spring">github-C</a>.</li></ul><h2 id="activities">ACTIVITIES</h2><p>SEP 2020 – JUL 2021 | <strong>Member of Science and TechnologyInnovation Department</strong> | XIDIAN UNIVERSITY</p><ul><li>Compiled yearbook of the Science and Innovation Department and heldlectures on science and technology.</li><li>Published promotional materials for disciplinary competitions.</li><li>Operated innovation and entrepreneurship sector of WeChat OfficialAccount.</li></ul><p>NOV 2020 – DEC 2020 | <strong>Excellent Volunteer</strong> | SPARKCUP OF XIDIAN</p><ul><li>Assisted in planning the overall process.</li><li>Communicated with relevant personnel.</li></ul><p>OCT 2019 – NOV 2019 | <strong>Excellent Volunteer</strong> | XI'ANMAKER FESTIVAL</p><ul><li>Coordinated works and personnel during the Xi'an MakerFestival.</li></ul><h2 id="skills">SKILLS</h2><p><strong>Programmer &amp; Simulation</strong></p><ul><li>C/C++, Matlab, Python, JAVA, VHDL, Verilog, Assembly(ARM)</li></ul><p><strong>Hardware &amp; Design</strong></p><ul><li>Solidworks, Quartus Prime(Intel FPGA), Vivado(Xilinx FPGA), AltiumDesigner, STM MCU</li><li>Multisim, LTSpice</li></ul><h2 id="language">LANGUAGE</h2><ul><li><strong>CHINESE</strong> - Mother Tongue</li><li><strong>FRENCH</strong> - B2 (DELF)</li><li><strong>ENGLISH</strong> - B2 (TOEIC-LR)</li></ul>]]></content>
       
       
       <categories>
@@ -43,8 +24,8 @@
     
     <entry>
       <title>VHDL</title>
-      <link href="/2022/03/25/XidianS6_VHDL/"/>
-      <url>/2022/03/25/XidianS6_VHDL/</url>
+      <link href="/undefined/XidianS6_VHDL/"/>
+      <url>/undefined/XidianS6_VHDL/</url>
       
         <content type="html"><![CDATA[<h2 id="cours-magistral">Cours Magistral</h2><p><a href="https://kjle.github.io/files/XidianS6/VHDL_CM_C1.pdf">TranscriptionCM1:Introcudction</a></p><p><a href="https://kjle.github.io/files/XidianS6/VHDL_CM_C2-11.pdf">TranscriptionCM2-11</a></p><h2 id="travaux-pratique">Travaux Pratique</h2><p><a href="https://kjle.github.io/files/XidianS6/VHDL_TP.pdf">TP</a></p><p><a href="https://kjle.github.io/files/XidianS6/VHDL_TP.zip">Source ofTP</a></p><h2 id="solution-of-tp">Solution of TP</h2><p><a href="https://kjle.github.io/files/XidianS6/VHDL_TP_Solution.zip">Solutionof TP</a> by Prof. Yann Douze</p><h2 id="exams">Exams</h2><p><a href="https://kjle.github.io/files/XidianS6/VHDL_Exam2019_no_correction.pdf">Exam#2019</a> without correction</p><p><a href="https://kjle.github.io/files/XidianS6/VHDL_Exam_Appendice.pdf">ExamAppendice</a></p><h2 id="project-processeur-monocycle">Project: Processeur MonoCycle</h2><p><a href="https://kjle.github.io/files/XidianS6/VHDL_Project.pdf">Project</a></p><p><a href="https://kjle.github.io/files/XidianS6/VHDL_Project_CM.pdf">ProjectHint</a></p><p><a href="https://github.com/kjle/VHDL-2022-Spring/blob/main/Report_EN.pdf">Report</a>and <a href="https://github.com/kjle/VHDL-2022-Spring/tree/main/VHDL">SourceCode</a></p>]]></content>
       
@@ -62,8 +43,8 @@
     
     <entry>
       <title>Electromagnetic</title>
-      <link href="/2022/03/24/XidianS6_Electromagnetic/"/>
-      <url>/2022/03/24/XidianS6_Electromagnetic/</url>
+      <link href="/undefined/XidianS6_Electromagnetic/"/>
+      <url>/undefined/XidianS6_Electromagnetic/</url>
       
         <content type="html"><![CDATA[<h2 id="cours-magistral">Cours Magistral</h2><p><a href="https://kjle.github.io/files/XidianS6/Electromagetic_CM.pdf">Transcription</a></p><h2 id="travaux-dirigés">Travaux Dirigés</h2><p><a href="https://kjle.github.io/files/XidianS6/Electromagetic_TD.pdf">TD:Electromagnétism</a></p><h2 id="correction-of-td">Correction of TD</h2><p><a href="https://kjle.github.io/files/XidianS6/Electromagetic_TD_Correction.pdf">TD_Correction</a>by Prof. Hervé Tortel</p><h2 id="exams">Exams</h2><p><a href="https://kjle.github.io/files/XidianS6/Electromagetic_Exam2019_no_correction.pdf">Exam#2019</a> without correction</p><p><a href="https://kjle.github.io/files/XidianS6/Electromagetic_Exam2017.pdf">Exam#2017</a></p>]]></content>
       
@@ -81,8 +62,8 @@
     
     <entry>
       <title>Microprocessor II</title>
-      <link href="/2022/03/24/XidianS6_MicroprocessorII/"/>
-      <url>/2022/03/24/XidianS6_MicroprocessorII/</url>
+      <link href="/undefined/XidianS6_MicroprocessorII/"/>
+      <url>/undefined/XidianS6_MicroprocessorII/</url>
       
         <content type="html"><![CDATA[<h2 id="tavaux-pratique">Tavaux Pratique</h2><p><a href="https://kjle.github.io/files/XidianS6/Microprocessor_TP1_GPIO.pdf">TP1:GPIO</a></p><p><a href="https://kjle.github.io/files/XidianS6/Microprocessor_TP2_TIMER.pdf">TP2:TIMER</a></p><p><a href="https://kjle.github.io/files/XidianS6/Microprocessor_TP3_PWM.pdf">TP3:PWM</a></p><p><a href="https://kjle.github.io/files/XidianS6/Microprocessor_TP4_USART.pdf">TP4:USART</a></p><p><a href="https://kjle.github.io/files/XidianS6/Microprocessor_TP5_NVIC.pdf">TP5:NVIC</a></p><h2 id="solutions-of-tps">Solutions of TPs</h2><p><a href="https://kjle.github.io/files/XidianS6/Microprocessor_TP_Solution.pdf">TP_Solutions</a></p><div class="row">    <embed src="https://kjle.github.io/files/XidianS6/Microprocessor_TP_Solution.pdf" width="100%" height="550" type="application/pdf"></div><h2 id="exam">Exam</h2><p><a href="https://kjle.github.io/files/XidianS6/Microprocessor_Exam2019.pdf">Exam2019</a></p>]]></content>
       
@@ -100,8 +81,8 @@
     
     <entry>
       <title>Semiconductor II</title>
-      <link href="/2022/03/21/XidianS6_SemiconductorII/"/>
-      <url>/2022/03/21/XidianS6_SemiconductorII/</url>
+      <link href="/undefined/XidianS6_SemiconductorII/"/>
+      <url>/undefined/XidianS6_SemiconductorII/</url>
       
         <content type="html"><![CDATA[<h2 id="cours-magistral">Cours Magistral</h2><p><a href="https://kjle.github.io/files/XidianS6/Semiconductor_CM_2021.pdf">Transcription</a>(Ch10-Ch11)</p><p><a href="https://kjle.github.io/files/XidianS6/Semiconductor_CM_Ch12.pdf">Transcription</a>(Ch12)</p><h2 id="travaux-dirigés">Travaux Dirigés</h2><p><a href="https://kjle.github.io/files/XidianS6/Semiconductor_TD_equilibre_hors_equilibre.pdf">TD:equilibre</a></p><p><a href="https://kjle.github.io/files/XidianS6/Semiconductor_TD_PNJonction.pdf">TD:PNJonction</a></p><h2 id="exams">Exams</h2><p><a href="https://kjle.github.io/files/XidianS6/Semiconductor_Exam2020.pdf">Exam#2020</a> without correction</p>]]></content>
       
@@ -119,8 +100,8 @@
     
     <entry>
       <title>Digital Image Processing</title>
-      <link href="/2022/01/12/XidianS6_DigitalImageProcessing/"/>
-      <url>/2022/01/12/XidianS6_DigitalImageProcessing/</url>
+      <link href="/undefined/XidianS6_DigitalImageProcessing/"/>
+      <url>/undefined/XidianS6_DigitalImageProcessing/</url>
       
         <content type="html"><![CDATA[<h2 id="cours-magistral">Cours Magistral</h2><p><a href="https://kjle.github.io/files/XidianS6/DIP_Chap0_introv2021.pdf">Chapter0:Introduction</a></p><p><a href="https://kjle.github.io/files/XidianS6/DIP_Chap1_ImNum2021.pdf">Chapter1:DigitalImage</a></p><p><a href="https://kjle.github.io/files/XidianS6/DIP_Chap2_Trt_pixel2021.pdf">Chapter2:PixelProcessint</a></p><p><a href="https://kjle.github.io/files/XidianS6/DIP_Chap3_Filtrage%20linénaire.pdf">Chapter3:LinearFilters</a></p><p><a href="https://kjle.github.io/files/XidianS6/DIP_Chap4_Filtrage%20non-linénaire.pdf">Chapter4:NonlinearFilters</a></p><p><a href="https://kjle.github.io/files/XidianS6/DIP_Chap5_Segmentation_Region.pdf">Chapter5:EdgeSegmentation 1</a></p><p><a href="https://kjle.github.io/files/XidianS6/DIP_Chap5_Segmentation_Contours%202.pdf">Chapter5:EdgeSegmentation 2</a></p><p><a href="https://kjle.github.io/files/XidianS6/DIP_Chap5_Segmentation_Region2022.pdf">Chapter52022</a></p><h2 id="travaux-pratique-and-solution">Travaux Pratique andSolution</h2><p><a href="https://kjle.github.io/files/XidianS6/DIP_TP.zip">TP andSolution</a></p><h2 id="exams">Exams</h2><p><a href="https://kjle.github.io/files/XidianS6/DIP_Exam2019.pdf">Exam#2019</a></p><p><a href="https://kjle.github.io/files/XidianS6/DIP_Exam2017_no_correction.pdf">Exam#2017</a> without correction</p>]]></content>
       
@@ -138,8 +119,8 @@
     
     <entry>
       <title>Automatic II</title>
-      <link href="/2022/01/11/XidianS6_AutomaticII/"/>
-      <url>/2022/01/11/XidianS6_AutomaticII/</url>
+      <link href="/undefined/XidianS6_AutomaticII/"/>
+      <url>/undefined/XidianS6_AutomaticII/</url>
       
         <content type="html"><![CDATA[<h2 id="cours-magistral">Cours Magistral</h2><p><a href="https://kjle.github.io/files/XidianS6/Automatic_CM.pdf">Transcription</a></p><h2 id="travaux-dirigés">Travaux Dirigés</h2><p><a href="https://kjle.github.io/files/XidianS6/Automatic_TD2019.docx">TD2019</a></p><h2 id="exams">Exams</h2><p><a href="https://kjle.github.io/files/XidianS6/Automatic_Exam2021.pdf">Exam#2021</a></p><p><a href="https://kjle.github.io/files/XidianS6/Automatic_Exam2019.pdf">Exam#2019</a></p>]]></content>
       
@@ -157,8 +138,8 @@
     
     <entry>
       <title>Analog Electronic III</title>
-      <link href="/2021/10/26/XidianS5_AnalogElecIII/"/>
-      <url>/2021/10/26/XidianS5_AnalogElecIII/</url>
+      <link href="/undefined/XidianS5_AnalogElecIII/"/>
+      <url>/undefined/XidianS5_AnalogElecIII/</url>
       
         <content type="html"><![CDATA[<p>All the files can be found in webset <a href="http://users.polytech.unice.fr/~cpeter/XIDIAN/">C.Peter</a>.</p><h2 id="cours-magistral">Cours Magistral</h2><p><a href="http://users.polytech.unice.fr/~cpeter/XIDIAN/1_RAPPELS.pdf">Rappels</a></p><p><a href="http://users.polytech.unice.fr/~cpeter/XIDIAN/2_QUADRIPOLES.pdf">Quadripoles</a></p><p><a href="http://users.polytech.unice.fr/~cpeter/XIDIAN/3_SC.pdf">SemiConducteur</a></p><p><a href="http://users.polytech.unice.fr/~cpeter/XIDIAN/4_DIODES.pdf">Diodes</a></p><p><a href="http://users.polytech.unice.fr/~cpeter/XIDIAN/5_TRANSISTOR_BIP.pdf">BJT</a></p><h2 id="travaux-dirigés">Travaux Dirigés</h2><p><a href="http://users.polytech.unice.fr/~cpeter/XIDIAN/TD1_RAPPELS.pdf">TD1</a></p><p><a href="http://users.polytech.unice.fr/~cpeter/XIDIAN/TD2_QUADRIPOLES.pdf">TD2</a></p><p>TD3 doesn't exist.</p><p><a href="http://users.polytech.unice.fr/~cpeter/XIDIAN/TD4_DIODES.pdf">TD4</a></p><p><a href="http://users.polytech.unice.fr/~cpeter/XIDIAN/TD5A_TRANSISTOR_BIP.pdf">TD5A</a></p><p><a href="http://users.polytech.unice.fr/~cpeter/XIDIAN/TD5B_TRANSISTOR_BIP.pdf">TD5B</a></p><p><a href="http://users.polytech.unice.fr/~cpeter/XIDIAN/TD5C_TRANSISTOR_BIP.pdf">TD5C</a></p><p><a href="https://kjle.github.io/files/XidianS5/AnalogElec_TD_corr.pdf">Corrigé</a>by KANG.</p>]]></content>
       
@@ -176,8 +157,8 @@
     
     <entry>
       <title>Microprocessor I</title>
-      <link href="/2021/10/12/XidianS5_MicroprocessorI/"/>
-      <url>/2021/10/12/XidianS5_MicroprocessorI/</url>
+      <link href="/undefined/XidianS5_MicroprocessorI/"/>
+      <url>/undefined/XidianS5_MicroprocessorI/</url>
       
         <content type="html"><![CDATA[<p>All the files can be found in website <a href="http://users.polytech.unice.fr/~bilavarn/elec3_micropro.html">Systèmesà microprocesseurs</a>.</p><p>Before start, you need to reference <a href="http://users.polytech.unice.fr/~bilavarn/fichier/elec3_micropro/GCC_ARM_utilisation.htm">Tutoriel:GCCARM</a>.</p><h2 id="cours-magistral">Cours Magistral</h2><p><a href="http://users.polytech.unice.fr/~bilavarn/fichier/elec3_micropro/Ch1-Representation.pdf">Ch1</a></p><p><a href="http://users.polytech.unice.fr/~bilavarn/fichier/elec3_micropro/Ch2-ARM_ISA.pdf">Ch2</a></p><p><a href="http://users.polytech.unice.fr/~bilavarn/fichier/elec3_micropro/Ch3-Donnees.pdf">Ch3</a></p><p><a href="http://users.polytech.unice.fr/~bilavarn/fichier/elec3_micropro/Ch4-Programmation.pdf">Ch4</a></p><p><a href="http://users.polytech.unice.fr/~bilavarn/fichier/elec3_micropro/Ch5-Execution.pdf">Ch5</a></p><p><a href="http://users.polytech.unice.fr/~bilavarn/fichier/elec3_micropro/Ch6-Binaire.pdf">Ch6</a></p><p><a href="http://users.polytech.unice.fr/~bilavarn/fichier/elec3_micropro/Ch7-Microcontroleur.pdf">Ch7</a></p><h2 id="travaux-dirigés">Travaux Dirigés</h2><p><a href="http://users.polytech.unice.fr/~bilavarn/fichier/elec3_micropro/TD1_RepresentationetArithmetique.pdf">TD1</a></p><p><a href="http://users.polytech.unice.fr/~bilavarn/fichier/elec3_micropro/TD2_ProgrammationElementaire.pdf">TD2</a></p><p><a href="http://users.polytech.unice.fr/~bilavarn/fichier/elec3_micropro/TD3_TableauxAdressage.pdf">TD3</a></p><p><a href="http://users.polytech.unice.fr/~bilavarn/fichier/elec3_micropro/TD4_ProgrammationStructuree.pdf">TD4</a></p><p><a href="http://users.polytech.unice.fr/~bilavarn/fichier/elec3_micropro/TD5_CalculMatriciel.pdf">TD5</a></p><p><a href="http://users.polytech.unice.fr/~bilavarn/fichier/elec3_micropro/TD6_RevisionSynthese.pdf">TD6</a></p>]]></content>
       
@@ -195,8 +176,8 @@
     
     <entry>
       <title>Digital Electronic (FSM)</title>
-      <link href="/2021/09/01/XidianS5_FSM/"/>
-      <url>/2021/09/01/XidianS5_FSM/</url>
+      <link href="/undefined/XidianS5_FSM/"/>
+      <url>/undefined/XidianS5_FSM/</url>
       
         <content type="html"><![CDATA[<h2 id="cours-magistral">Cours Magistral</h2><p><a href="https://kjle.github.io/files/XidianS5/FSM_CM_introduction.ppt">Transcription:Introcudction</a></p><p><a href="https://kjle.github.io/files/XidianS5/FSM_CM.pdf">Transcription</a></p><h2 id="travaux-dirigés-et-corrigés">Travaux Dirigés et Corrigés</h2><p><a href="https://kjle.github.io/files/XidianS5/FSM_TD.pdf">TD</a></p><p><a href="https://kjle.github.io/files/XidianS5/FSM_TD_correction.pdf">Corrigés</a></p><p><a href="https://kjle.github.io/files/XidianS5/FSM_TD_Ex.pdf">Exercice surles Automates à Etats Finis</a></p><h2 id="travaux-pratique-et-solutions">Travaux Pratique etSolutions</h2><p><a href="https://kjle.github.io/files/XidianS5/FSM_TP1.doc">TP1</a></p><p><a href="https://kjle.github.io/files/XidianS5/FSM_TP2.doc">TP2</a></p><p><a href="https://kjle.github.io/files/XidianS5/FSM_TP1_solution.pdf">Solutionof TP1</a></p><p><a href="https://kjle.github.io/files/XidianS5/FSM_TP2_solution.docx">Solutionof TP2</a></p><h2 id="exams">Exams</h2><p><a href="https://kjle.github.io/files/XidianS5/FSM_Exam2017.pdf">Exam#2017</a></p><p><a href="https://kjle.github.io/files/XidianS5/FSM_Exam2014.pdf">Exam#2014</a></p>]]></content>
       
@@ -214,8 +195,8 @@
     
     <entry>
       <title>Automatic I</title>
-      <link href="/2021/08/31/XidianS5_AutomaticI/"/>
-      <url>/2021/08/31/XidianS5_AutomaticI/</url>
+      <link href="/undefined/XidianS5_AutomaticI/"/>
+      <url>/undefined/XidianS5_AutomaticI/</url>
       
         <content type="html"><![CDATA[<h2 id="cours-magistral">Cours Magistral</h2><p><a href="https://kjle.github.io/files/XidianS5/Automatic_CM.pdf">Transcription</a></p><h2 id="travaux-dirigés-and-corrigés">Travaux Dirigés and Corrigés</h2><p><a href="https://kjle.github.io/files/XidianS5/Automatic_TD.pdf">TD</a></p><p><a href="https://kjle.github.io/files/XidianS5/Automatic_TD_corrige.pdf">Corrigés</a></p><h2 id="exams">Exams</h2><p><a href="https://kjle.github.io/files/XidianS5/Automatic_Exam2021.pdf">Exam#2021</a></p>]]></content>
       
@@ -233,8 +214,8 @@
     
     <entry>
       <title>Digital Signal Processing (Digital Filter)</title>
-      <link href="/2021/08/31/XidianS5_DigitalSignalProcessing/"/>
-      <url>/2021/08/31/XidianS5_DigitalSignalProcessing/</url>
+      <link href="/undefined/XidianS5_DigitalSignalProcessing/"/>
+      <url>/undefined/XidianS5_DigitalSignalProcessing/</url>
       
         <content type="html"><![CDATA[<h2 id="cours-magistral">Cours Magistral</h2><p><a href="https://kjle.github.io/files/XidianS5/DSP_CM.pdf">Transcription</a></p><h2 id="travaux-dirigés-and-travaux-pratiques">Travaux Dirigés andTravaux Pratiques</h2><p><a href="https://kjle.github.io/files/XidianS5/DSP_TD_TP.pdf">TD</a></p><h2 id="project-denoise">Project: Denoise</h2><p><a href="https://kjle.github.io/files/XidianS5/DSP_Project.zip">Project</a></p><h3 id="subject">Subject</h3><p>Denoise with the given audio (sig2b)</p><h3 id="result">Result</h3><p>The message in this audio is <strong>"Bonjour, groupe2!"</strong></p>]]></content>
       
@@ -252,8 +233,8 @@
     
     <entry>
       <title>Semiconductor I</title>
-      <link href="/2021/08/31/XidianS5_SemiconductorI/"/>
-      <url>/2021/08/31/XidianS5_SemiconductorI/</url>
+      <link href="/undefined/XidianS5_SemiconductorI/"/>
+      <url>/undefined/XidianS5_SemiconductorI/</url>
       
         <content type="html"><![CDATA[<h2 id="cours-magistral">Cours Magistral</h2><p><a href="https://kjle.github.io/files/XidianS5/Semiconductor_CM_Ch1-Ch10.pdf">Transcription</a>(Ch1-Ch10)</p><h2 id="travaux-dirigés">Travaux Dirigés</h2><p><a href="https://kjle.github.io/files/XidianS5/Semiconductor_TD_octobre_v2.pdf">TD</a></p><p><a href="https://kjle.github.io/files/XidianS5/Semiconductor_TD_densite_etats_SCintrinseque.doc">TD:Densitéétats</a></p>]]></content>
       
@@ -271,8 +252,8 @@
     
     <entry>
       <title>Analog Electronic II</title>
-      <link href="/2021/04/20/XidianS4_AnalogElecII/"/>
-      <url>/2021/04/20/XidianS4_AnalogElecII/</url>
+      <link href="/undefined/XidianS4_AnalogElecII/"/>
+      <url>/undefined/XidianS4_AnalogElecII/</url>
       
         <content type="html"><![CDATA[<h2 id="cours-magistral">Cours Magistral</h2><p><a href="https://kjle.github.io/files/XidianS4/AnalogElec_CM2022.pdf">CM#2022</a> (made by REN)</p><h2 id="travaux-dirigés">Travaux Dirigés</h2><p><a href="https://kjle.github.io/files/XidianS4/AnalogElec_TD_RLC.pdf">TD:RLC</a>(with correction)</p><p><a href="https://kjle.github.io/files/XidianS4/AnalogElec_TD_AOP.pdf">TD:AOP</a></p><p><a href="https://kjle.github.io/files/XidianS4/AnalogElec_TD_RRC.pdf">TD:FiltreRRC</a></p><p><a href="https://kjle.github.io/files/XidianS4/AnalogElec_TD_RTFRC.pdf">TD:FiltreRéponse Temporelle Filtre RC</a></p><h2 id="travaux-pratique">Travaux Pratique</h2><p><a href="https://kjle.github.io/files/XidianS4/AnalogElec_TP.pdf">TP</a></p><h2 id="exams">Exams</h2><p><a href="https://kjle.github.io/files/XidianS4/AnalogElec_Exam2018.pdf">Exam#2018</a> (with correction)</p>]]></content>
       
@@ -290,8 +271,8 @@
     
     <entry>
       <title>Language C II</title>
-      <link href="/2021/04/06/XidianS4_langCII/"/>
-      <url>/2021/04/06/XidianS4_langCII/</url>
+      <link href="/undefined/XidianS4_langCII/"/>
+      <url>/undefined/XidianS4_langCII/</url>
       
         <content type="html"><![CDATA[<p>All the files can be found in website <a href="http://users.polytech.unice.fr/~vg/index-xidian.html">VincentGranet</a>.</p><h2 id="cours-magistral">Cours Magistral</h2><p><a href="http://users.polytech.unice.fr/~vg/xidian/cours/09-String.pdf">Chaînesde caractères</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/cours/10-CPP.pdf">CPP</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/cours/11-Struct-Unions.pdf">Structureset unions</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/cours/12-Pointeurs.pdf">Pointeurs</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/cours/13-CompilSep.pdf">Compilationséparée</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/cours/14-Fichiers.pdf">Fichiers</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/cours/15-IG-LibSX.pdf">Interfacegraphiques avec libsx</a></p><h2 id="travaux-dirigés-et-corrigés">Travaux Dirigés et Corrigés</h2><p><a href="http://users.polytech.unice.fr/~vg/xidian/s4/td07.pdf">TD7</a> and<a href="http://users.polytech.unice.fr/~vg/xidian/s4/sol-td07.pdf">Corrigé</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/s4/td08.pdf">TD8</a> and<a href="http://users.polytech.unice.fr/~vg/xidian/s4/sol-td08.pdf">Corrigé</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/s4/td09.pdf">TD9</a> and<a href="http://users.polytech.unice.fr/~vg/xidian/s4/sol-td09.pdf">Corrigé</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/s4/td10a.pdf">TD10a</a> <a href="http://users.polytech.unice.fr/~vg/xidian/s4/td10b.pdf">TD10 b</a>and <a href="http://users.polytech.unice.fr/~vg/xidian/s4/sol-td10a.pdf">Corrigéa</a> <a href="http://users.polytech.unice.fr/~vg/xidian/s4/sol-td10b.pdf">Corrigéb</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/s4/td11.pdf">TD11</a>and <a href="http://users.polytech.unice.fr/~vg/xidian/s4/sol-td11/sol-td11-array.pdf">Corrigé1</a> <a href="http://users.polytech.unice.fr/~vg/xidian/s4/sol-td11/sol-td11-LC.pdf">Corrigé2</a> <a href="http://users.polytech.unice.fr/~vg/xidian/s4/sol-td11/Makefile">Makefile</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/s4/td12.pdf">TD12</a>and <a href="http://users.polytech.unice.fr/~vg/xidian/s4/sol-td12.pdf">Corrigé</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/s4/td13.pdf">TD13</a>and <a href="http://users.polytech.unice.fr/~vg/xidian/s4/sol-td13.pdf">Corrigé</a></p><h2 id="exams">Exams</h2><p><a href="https://kjle.github.io/files/XidianS4/LangC_Exam2019-2020.pdf">Exam#2020</a> (with correction)</p><p><a href="https://kjle.github.io/files/XidianS4/LangC_Exam2017-2018.pdf">Exam#2018</a> (with correction)</p><p><a href="https://kjle.github.io/files/XidianS4/LangC_Exam2016-2017.pdf">Exam#2017</a> (with correction)</p><h2 id="project">Project</h2><p>All the source is on <a href="https://github.com/kjle/Project-C-2021-Spring">Github</a>.</p><p><a href="https://github.com/kjle/Project-C-2021-Spring/blob/main/problem.pdf">Problem</a></p><p><a href="https://github.com/kjle/Project-C-2021-Spring/blob/main/Solution.pdf">Report</a></p>]]></content>
       
@@ -309,8 +290,8 @@
     
     <entry>
       <title>Signal and System II</title>
-      <link href="/2021/03/26/XidianS4_Signal&amp;SystemII/"/>
-      <url>/2021/03/26/XidianS4_Signal&amp;SystemII/</url>
+      <link href="/undefined/XidianS4_Signal&amp;SystemII/"/>
+      <url>/undefined/XidianS4_Signal&amp;SystemII/</url>
       
         <content type="html"><![CDATA[<h2 id="cours-magistral">Cours Magistral</h2><p><a href="https://kjle.github.io/files/XidianS4/S&amp;S_CM_Bilan.pdf">Bilan</a></p><p><a href="https://kjle.github.io/files/XidianS4/S&amp;S_CM1.pdf">Rappels detraitement du signal</a></p><p><a href="https://kjle.github.io/files/XidianS4/S&amp;S_CM2.pdf">Signauxéchantillonnés</a></p><p><a href="https://kjle.github.io/files/XidianS4/S&amp;S_CM3.pdf">Signauxnumériques et transformée de Fourier Discrète</a></p><p><a href="https://kjle.github.io/files/XidianS4/S&amp;S_CM4.pdf">Conversionanalogique numérique et bruit de quantification</a></p><h2 id="travaux-dirigés-et-corrigés">Travaux Dirigés et Corrigés</h2><p><a href="https://kjle.github.io/files/XidianS4/S&amp;S_TD.pdf">TD</a></p><p><a href="https://kjle.github.io/files/XidianS4/S&amp;S_TD_corr.pdf">Corrigés</a></p>]]></content>
       
@@ -328,8 +309,8 @@
     
     <entry>
       <title>Statistic Applications II Statisitques</title>
-      <link href="/2021/03/02/XidianS4_ProbabilityII/"/>
-      <url>/2021/03/02/XidianS4_ProbabilityII/</url>
+      <link href="/undefined/XidianS4_ProbabilityII/"/>
+      <url>/undefined/XidianS4_ProbabilityII/</url>
       
         <content type="html"><![CDATA[<h2 id="cours-magistral">Cours Magistral</h2><p><a href="https://kjle.github.io/files/XidianS4/Probability_CM.pdf">CM:Statistiques</a></p><h2 id="travaux-dirigés-et-corrigés">Travaux Dirigés et Corrigés</h2><p><a href="https://kjle.github.io/files/XidianS4/Probability_TD.pdf">TD</a></p><h2 id="reference">Reference</h2><p>You can find many useful files on <a href="http://users.polytech.unice.fr/~aliferis/fr/teaching/courses/elec3/statistique_appliquee/docs.php">StatistiqueAppliquée</a></p>]]></content>
       
@@ -347,8 +328,8 @@
     
     <entry>
       <title>Statistic Applications I Probabilité</title>
-      <link href="/2020/09/21/XidianS3_ProbabilityI/"/>
-      <url>/2020/09/21/XidianS3_ProbabilityI/</url>
+      <link href="/undefined/XidianS3_ProbabilityI/"/>
+      <url>/undefined/XidianS3_ProbabilityI/</url>
       
         <content type="html"><![CDATA[<h2 id="Cours-Magistral"><a href="#Cours-Magistral" class="headerlink" title="Cours Magistral"></a>Cours Magistral</h2><p><a href="https://kjle.github.io/files/XidianS3/Probability_CM.pdf">CM:Statistiques</a></p><h2 id="Travaux-Diriges-et-Corriges"><a href="#Travaux-Diriges-et-Corriges" class="headerlink" title="Travaux Dirigés et Corrigés"></a>Travaux Dirigés et Corrigés</h2><p><a href="https://kjle.github.io/files/XidianS3/Probability_TD.pdf">TD</a></p><h2 id="Exams"><a href="#Exams" class="headerlink" title="Exams"></a>Exams</h2><p><a href="https://kjle.github.io/files/XidianS3/Probability_Exam2020.pdf">Exam #2020</a></p><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><a href="https://kjle.github.io/files/XidianS3/Probability_Appendix.pdf">Appendix</a></p><p>You can find many useful files on <a href="http://users.polytech.unice.fr/~aliferis/fr/teaching/courses/elec3/statistique_appliquee/docs.php">Statistique Appliquée</a></p>]]></content>
       
@@ -366,8 +347,8 @@
     
     <entry>
       <title>Language C I</title>
-      <link href="/2020/09/21/XidianS3_langCI/"/>
-      <url>/2020/09/21/XidianS3_langCI/</url>
+      <link href="/undefined/XidianS3_langCI/"/>
+      <url>/undefined/XidianS3_langCI/</url>
       
         <content type="html"><![CDATA[<p>All the files can be found in website <a href="http://users.polytech.unice.fr/~vg/index-xidian.html">Vincent Granet</a>.</p><h2 id="Cours-Magistral"><a href="#Cours-Magistral" class="headerlink" title="Cours Magistral"></a>Cours Magistral</h2><p><a href="http://users.polytech.unice.fr/~vg/xidian/cours/01-Introduction.pdf">Introduction</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/cours/02-ActionsElem.pdf">Actions élémentaires</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/cours/03-TypesElem.pdf">Types élémentaires</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/cours/04-Expressions.pdf">Expressions</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/cours/05-ActionsStruct.pdf">Énoncé composé</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/cours/06-Routines.pdf">Routines</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/cours/07-EnoncesIteratifs.pdf">Enoncés itératifs</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/cours/08-Tableaux.pdf">Tableaux</a></p><h2 id="Travaux-Diriges-et-Corriges"><a href="#Travaux-Diriges-et-Corriges" class="headerlink" title="Travaux Dirigés et Corrigés"></a>Travaux Dirigés et Corrigés</h2><p><a href="http://users.polytech.unice.fr/~vg/xidian/s3/td00.pdf">TD0</a> and <a href="http://users.polytech.unice.fr/~vg/xidian/s3/td01.pdf">TD1</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/s3/td02.pdf">TD2</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/s3/td03.pdf">TD3</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/s3/td04.pdf">TD4</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/s3/td05.pdf">TD5</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian/s3/td06.pdf">TD6a</a> and <a href="http://users.polytech.unice.fr/~vg/xidian/s3/td06-2.pdf">TD6b</a></p><h2 id="Exams"><a href="#Exams" class="headerlink" title="Exams"></a>Exams</h2><p><a href="http://users.polytech.unice.fr/~vg/xidian-ds/20-21/sol-DS-2021-01.pdf">Exam #2020</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian-ds/19-20/sol-DS-2019-10-14.pdf">Exam #2019</a></p><p><a href="http://users.polytech.unice.fr/~vg/xidian-ds/18-19/sol-DS-2018-15-10.pdf">Exam #2018</a></p><h2 id="Project"><a href="#Project" class="headerlink" title="Project"></a>Project</h2><p>All the source is on <a href="https://github.com/kjle/Project-C-2020-Fall">Github</a>.</p><p><a href="https://github.com/kjle/Project-C-2020-Fall/blob/main/Problems.pdf">Problem</a></p><p><a href="https://github.com/kjle/Project-C-2020-Fall/blob/main/Solutions.pdf">Report</a></p>]]></content>
       
@@ -385,8 +366,8 @@
     
     <entry>
       <title>Analog Electronic I</title>
-      <link href="/2020/09/02/XidianS3_AnalogElecI/"/>
-      <url>/2020/09/02/XidianS3_AnalogElecI/</url>
+      <link href="/undefined/XidianS3_AnalogElecI/"/>
+      <url>/undefined/XidianS3_AnalogElecI/</url>
       
         <content type="html"><![CDATA[<h2 id="Cours-Magistral"><a href="#Cours-Magistral" class="headerlink" title="Cours Magistral"></a>Cours Magistral</h2><p><a href="https://kjle.github.io/files/XidianS3/AnalogElec_CM.pdf">CM #2022</a></p><h2 id="Travaux-Diriges"><a href="#Travaux-Diriges" class="headerlink" title="Travaux Dirigés"></a>Travaux Dirigés</h2><p><a href="https://kjle.github.io/files/XidianS3/AnalogElec_TD.pdf">All the TDs</a> (without correction)</p><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><a href="https://kjle.github.io/files/XidianS3/AnalogElec_EN_FR_CH.xlsx">Specialized Vocabulary Document</a> (made by Prof.REN)</p><h2 id="Exams"><a href="#Exams" class="headerlink" title="Exams"></a>Exams</h2><p><a href="https://kjle.github.io/files/XidianS3/AnalogElec_Exam2020.pdf">Exam #2020</a> (with correction)</p><p><a href="https://kjle.github.io/files/XidianS3/AnalogElec_Exam2019.pdf">Exam #2019</a> (without correction)</p><p><a href="https://kjle.github.io/files/XidianS3/AnalogElec_Exam2018.pdf">Exam #2018</a> (without correction)</p>]]></content>
       
@@ -404,8 +385,8 @@
     
     <entry>
       <title>Signal and System I</title>
-      <link href="/2020/09/02/XidianS3_Signal&amp;SystemI/"/>
-      <url>/2020/09/02/XidianS3_Signal&amp;SystemI/</url>
+      <link href="/undefined/XidianS3_Signal&amp;SystemI/"/>
+      <url>/undefined/XidianS3_Signal&amp;SystemI/</url>
       
         <content type="html"><![CDATA[<h2 id="Cours-Magistral"><a href="#Cours-Magistral" class="headerlink" title="Cours Magistral"></a>Cours Magistral</h2><p><a href="https://kjle.github.io/files/XidianS3/S&S_CM.pdf">CM</a></p><h2 id="Travaux-Diriges-et-Corriges"><a href="#Travaux-Diriges-et-Corriges" class="headerlink" title="Travaux Dirigés et Corrigés"></a>Travaux Dirigés et Corrigés</h2><p><a href="https://kjle.github.io/files/XidianS3/S&S_TD1.pdf">TD1</a></p><p><a href="https://kjle.github.io/files/XidianS3/S&S_TD2.pdf">TD2</a></p><p><a href="https://kjle.github.io/files/XidianS3/S&S_TD3.pdf">TD3</a></p><p><a href="https://kjle.github.io/files/XidianS3/S&S_TD4.pdf">TD4</a></p>]]></content>
       
