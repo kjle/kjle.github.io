@@ -4,6 +4,7 @@ date: 2021-10-26
 tags:
 categories: Xidian S5
 mathjax: true
+lang: en
 ---
 
 All the files can be found in webset [C.Peter](http://users.polytech.unice.fr/~cpeter/XIDIAN/).

@@ -4,6 +4,7 @@ date: 2020-09-02
 tags:
 categories: Xidian S3
 mathjax: true
+lang: en
 ---
 
 ## Cours Magistral

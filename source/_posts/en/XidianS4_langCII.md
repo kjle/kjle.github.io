@@ -4,6 +4,7 @@ date: 2021-04-06
 tags:
 categories: Xidian S4
 mathjax: true
+lang: en
 ---
 
 All the files can be found in website [Vincent Granet](http://users.polytech.unice.fr/~vg/index-xidian.html).

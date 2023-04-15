@@ -4,6 +4,7 @@ date: 2021-08-31
 tags:
 categories: Xidian S5
 mathjax: true
+lang: en
 ---
 
 ## Cours Magistral

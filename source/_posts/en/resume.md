@@ -1,9 +1,13 @@
 ---
-title: Resume
-date: 2023-4-14
+title: resume
+lang: en
+date: 2023-04-15
+tags:
 categories: About Me
-mathjax: true
 ---
+
+<a style="float:right" class="btn btn-info" href="{% post_path '简历' %}">简体中文</a>
+
 ## PERSONAL INFO
 
 <font size="5"><b>KANG</b> Jiale</font>

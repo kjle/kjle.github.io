@@ -4,6 +4,7 @@ date: 2020-09-21
 tags:
 categories: Xidian S3
 mathjax: true
+lang: en
 ---
 
 All the files can be found in website [Vincent Granet](http://users.polytech.unice.fr/~vg/index-xidian.html).

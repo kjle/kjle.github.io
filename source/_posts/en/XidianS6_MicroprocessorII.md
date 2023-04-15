@@ -4,6 +4,7 @@ date: 2022-03-24
 tags:
 categories: Xidian S6
 mathjax: true
+lang: en
 ---
 
 ## Tavaux Pratique

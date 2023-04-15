@@ -4,6 +4,7 @@ date: 2021-10-12
 tags:
 categories: Xidian S5
 mathjax: true
+lang: en
 ---
 
 All the files can be found in website [Systèmes à microprocesseurs](http://users.polytech.unice.fr/~bilavarn/elec3_micropro.html).

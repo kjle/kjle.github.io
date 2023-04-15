@@ -4,6 +4,7 @@ date: 2022-03-25
 tags:
 categories: Xidian S6
 mathjax: true
+lang: en
 ---
 
 ## Cours Magistral
