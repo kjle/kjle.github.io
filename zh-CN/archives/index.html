@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   
-  <title>Xidian S6 | KANG Gaalok</title>
+  <title>archive_a | KANG Gaalok</title>
   <meta name="author" content="KANG Gaalok">
   
   <meta name="description" content="Documents of all the Courses.">
@@ -476,6 +476,22 @@
      searchFunc(path, 'local-search-input', 'local-search-result');
    </script>
 
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+            processEscapes: true
+        }
+    });
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax();
+        for (var i = 0; i < all.length; ++i)
+            all[i].SourceElement().parentNode.className += ' has-jax';
+    });
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
 </body>
 </html>
