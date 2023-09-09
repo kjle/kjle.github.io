@@ -48,7 +48,7 @@
   <div class="container" id="container">
 	<div class="content">
 	  <div class="page-header">		
-  <h1><a class="brand" href="/">KANG Gaalok</a><span class="split"></span><span class="title">Physics</span><span class="date" id="title-date"><i class="fa fa-clock-o"></i> 2022-05-24</span></h1>
+  <h1><a class="brand" href="/">KANG Gaalok</a><span class="split"></span><span class="title">Physics</span><span class="date" id="title-date"><i class="fa fa-clock-o"></i> 2022-05-23</span></h1>
 </div>		
 
 <div class="row page">
@@ -1281,6 +1281,22 @@ This material is:</p>
      searchFunc(path, 'local-search-input', 'local-search-result');
    </script>
 
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+            processEscapes: true
+        }
+    });
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax();
+        for (var i = 0; i < all.length; ++i)
+            all[i].SourceElement().parentNode.className += ' has-jax';
+    });
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
 </body>
 </html>
