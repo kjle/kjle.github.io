@@ -16,30 +16,33 @@ CHINESE
 
 12 MAR 2001
 
-Email: <a href="mailto:kanngjle@gmail.com">gaalok.kang@gmail.com</a>
+Email: <a href="mailto:gaalok.kang@gmail.com">gaalok.kang@gmail.com</a>
+
+Hobby: Photography
 
 ## EDUCATION BACKGROUND
 
-<div style="height: 600px;">
+<div style="height: 500px;">
 <div style="height: 300px; width:100%;">
 <h3>Diplôme d'Ingénieur</h3>  
 <a href="https://www.telecom-paris.fr/"><img src="/../../../../images/telecom_paris_logo.png" style="width:15%;float:right; margin:10px;"></a>
 <p style="font-style:normal; margin-top:10px;">
     SEPT 2023 - JUNE 2025 | <strong>Institut Polytechnique de Paris - <a href="https://www.telecom-paris.fr/" style="color: black">Télécom Paris</a></strong>, Palaiseau Cedex, Paris, France
-    <!-- <ul>
-        <li>专业为<strong>电子信息工程</strong>，核心专业课包括<span style="color:blue;">电路与系统、信号处理、数字电路、模拟电路、ARM处理器</span>等。</li>
-        <li>GPA 3.8/4.0</li>
-    </ul> -->
+    <ul>
+        <li> SLR (Distributed Software Systems) </li>
+        <li> TSIA (Signal Processing for Artificial Intelligence) </li>
+    </ul>
 </p>
 </div>
-<div style="height: 300px; width:100%;">
+<div style="height: 200px; width:100%;">
 <h3>Bachelor of Engineering</h3>
 <a href="https://www.xidian.edu.cn/"><img src="/../../../../images/xidian_logo.jpg" style="width:30%;float:right; margin:10px;"></a>
 <p style="font-style:normal; margin-top:10px;">
     AUG 2019 - JUNE 2023 | <strong><a href="https://www.xidian.edu.cn/" style="color: black">Xidian University</a></strong>, Xi’an, Shaanxi, CHINA
     <ul>
-        <li>Major in <strong>Electronic Information Engineering</strong>, core courses including <span style="color:blue;">Circuit and Systems, Signal and Information Processing</span></li>.
+        <li>Major in <strong>Electronic Information Engineering</strong>, core courses including <span style="color:blue;">Circuit and Systems, Signal and Information Processing</span></li>
         <li>GPA 3.8/4.0</li>
+        <li>University <span style="color:red;">First-Class Scholarship (top 5%)</span> during 2019/2020, 2020/2021 AND 2021/2022</li>
     </ul>
 </p>
 </div>
@@ -52,7 +55,6 @@ Email: <a href="mailto:kanngjle@gmail.com">gaalok.kang@gmail.com</a>
 - <span style="color:red;">First Prize</span> in Shaanxi Division of National **M**athematical **C**ontest in **M**odeling for College Students, 2021
 - <span style="color:red;">Honorable Mention</span> of **M**athematical **C**ontest in **M**odeling Certificate of Achievement Award, 2021
 - <span style="color:red;">Second Prize</span> of National College Students Mathematics Competition (Non-Mathematics Major), 2020
-- University <span style="color:red;">First-Class Scholarship (top 5%)</span>, 2019/2020, 2020/2021 AND 2021/2022
 
 ## PROJECTS
 
@@ -105,15 +107,19 @@ OCT 2019 – NOV 2019 | **Excellent Volunteer** | XI'AN MAKER FESTIVAL
 
 **Programmer & Simulation**
 
-- C/C++, Matlab, Python, JAVA, VHDL, Verilog, Assembly(ARM)
+- C/C++, Matlab, Python, JAVA, 硬件描述语言(VHDL & Verilog), 汇编(ARM)
 
 **Hardware & Design**
 
-- Solidworks, Quartus Prime(Intel FPGA), Vivado(Xilinx FPGA), Altium Designer, STM MCU
+- Quartus Prime (Intel FPGA), Vivado (Xilinx FPGA), Altium Designer (& KiCad), STM MCU
 - Multisim, LTSpice
+
+**Others**
+
+- Solidworks, Adobe Lightroom & PhotoShop
 
 ## LANGUAGE
 
-- **CHINESE** - Mother Tongue 
+- **CHINESE** - Mother Tongue (Mandarin)
 - **FRENCH** - B2 (DELF)
 - **ENGLISH** - B2 (TOEIC-LR)
